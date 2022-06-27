@@ -4,9 +4,6 @@ theme:
   name: material
   logo: images/logo.light.svg
   favicon: images/logo.svg
-  palette:
-    primary: green
-    secondary: light blue
   features:
     - navigation.tabs
     - navigation.top
@@ -34,7 +31,9 @@ extra_javascript:
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 extra_css:
-- styles.css
+- styles/image-list.css
+- styles/timeline.css
+- styles/palette.css
 plugins:
   - awesome-pages
   - search
