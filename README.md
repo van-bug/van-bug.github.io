@@ -16,7 +16,7 @@ To render the docs and re-render on changes you can start the development server
 poetry run mkdocs serve
 ```
 
-Your build docs should not be available on localhost:8000
+Your build docs should now be available on localhost:8000
 
 ## Making Small Changes
 
