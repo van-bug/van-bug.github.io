@@ -2,52 +2,105 @@
 
 ## Fall 2021
 
-### September 22nd, 2021, Wednesday, 11:00am PST online
+<div class="timeline" markdown="1">
 
-Speaker: **Tao Huan**
-Short presentation: **Shreya Bendre (Bénard/Lin lab, BCCRC)**
+- September 22nd, 2021, Wednesday
 
-### October 20th, 2021, Wednesday, 11:00am PST online
+    :material-clock: 11:00am PST
 
-Speaker: **Adi Steif**
-Short presentation: **Junbum Im (Kuchenbauer lab, BCCRC)**
+    :material-map-marker:  online
 
-### November 17th, 2021, Wednesday, 11:00am PST online
+    Speaker: **Tao Huan**
 
-Speaker: **Jesse Gillis**
-Short presentation: **Dalia Alghamdi (Hsiao lab, SFU)**
+    Short presentation: **Shreya Bendre (Bénard/Lin lab, BCCRC)**
 
-### December 9th, 2021, Wednesday, **6:00pm-7:30pm** PST PST online
+- October 20th, 2021, Wednesday
 
-Event: **3 Minute Lightning Talks**
+    :material-clock: 11:00am PST online
+
+    :material-map-marker: online
+
+    Speaker: **Adi Steif**
+
+    Short presentation: **Junbum Im (Kuchenbauer lab, BCCRC)**
+
+- November 17th, 2021, Wednesday
+
+    :material-clock: 11:00am PST online
+
+    :material-map-marker:  online
+
+    Speaker: **Jesse Gillis**
+
+    Short presentation: **Dalia Alghamdi (Hsiao lab, SFU)**
+
+- December 9th, 2021, Wednesday
+
+    :material-clock: **6:00pm-7:30pm** PST
+
+    :material-map-marker:  online
+
+    Event: **3 Minute Lightning Talks**
+
+</div>
 
 ## Spring 2022
 
-### January 19th, 2022, Wednesday, 11:00am PST online
+<div class="timeline" markdown="1">
 
-Speaker: **Sabah Ul-Hasan**
-Short presentation: **Denitsa Vasileva (Daley lab, UBC)**
+- January 19th, 2022, Wednesday
 
-### February 16th, 2022, Wednesday, 11:00am PST online
+    :material-clock: 11:00am PST online
 
-Speaker: **Sandrine Moreira**
-Short presentation: **Armita Safa (Hach lab, VPC)**
+    :material-map-marker:  online
 
-### March 16th, 2022, Wednesday, 11:00am PST online
+    Speaker: **Sabah Ul-Hasan**
 
-Speaker: **Aline Talhouk**
-Short presentation: **Angela McLaughlin (Joy lab, BCCfE)**
+    Short presentation: **Denitsa Vasileva (Daley lab, UBC)**
 
-### April 20th, 2022, Wednesday, 11:00am PST online
+- February 16th, 2022, Wednesday
 
-Speaker: **Carl de Boer**
-Short presentation: **Bradley R. Jones (Joy lab, UBC)**
+    :material-clock: 11:00am PST online
+
+    :material-map-marker:  online
+
+    Speaker: **Sandrine Moreira**
+
+    Short presentation: **Armita Safa (Hach lab, VPC)**
+
+- March 16th, 2022, Wednesday
+
+    :material-clock: 11:00am PST online
+
+    :material-map-marker:  online
+
+    Speaker: **Aline Talhouk**
+
+    Short presentation: **Angela McLaughlin (Joy lab, BCCfE)**
+
+- April 20th, 2022, Wednesday
+
+    :material-clock: 11:00am PST online
+
+    :material-map-marker:  online
+
+    Speaker: **Carl de Boer**
+
+    Short presentation: **Bradley R. Jones (Joy lab, UBC)**
+
+</div>
 
 ## Summer 2022
 
-### May 19th, 2022, Thursday, 2022 @ 6:00pm ~ 8:30pm PST
+<div class="timeline" markdown="1">
 
-### _in-person @ [Langara College](https://maps.google.com/maps?hl=en&q=https://goo.gl/maps/uMQse5EwrGLGFWvL8)_
+- May 19th, 2022, Thursday, 2022
 
-VanBUG is hosting a **Career Panel** to give current and future students an opportunity to learn and explore bioinformatics career paths from experienced representatives of the bioinformatics community. This is also a unique opportunity to hear panelists’ first hand experiences working in the field before and during the pandemic and their thoughts on the future of working in bioinformatics.
-The event will include a one-hour moderated (3-5 person) panel discussion that will be followed by networking over food and refreshments. Panelists from industry, academia, and government will be present. _More details to come._
+    :material-clock:  6:00pm ~ 8:30pm PST
+
+    :material-map-marker: _in-person @ [Langara College](https://maps.google.com/maps?hl=en&q=https://goo.gl/maps/uMQse5EwrGLGFWvL8)_
+
+    VanBUG is hosting a **Career Panel** to give current and future students an opportunity to learn and explore bioinformatics career paths from experienced representatives of the bioinformatics community. This is also a unique opportunity to hear panelists’ first hand experiences working in the field before and during the pandemic and their thoughts on the future of working in bioinformatics.
+    The event will include a one-hour moderated (3-5 person) panel discussion that will be followed by networking over food and refreshments. Panelists from industry, academia, and government will be present. _More details to come._
+
+</div>
