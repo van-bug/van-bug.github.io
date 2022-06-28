@@ -30,14 +30,23 @@ markdown_extensions:
 extra_javascript:
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+  - https://platform.twitter.com/widgets.js
 extra_css:
 - styles/image-list.css
 - styles/timeline.css
 - styles/palette.css
+- styles/general.css
 plugins:
   - awesome-pages
   - search
   - include-markdown
+  - mkdocs-video
 nav:
   - Home: index.md
   - ...
+extra:
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/VanBUG_
+    - icon: fontawesome/brands/github
+      link: https://github.com/van-bug

@@ -1,0 +1,4 @@
+iframe.twitter-timeline.twitter-timeline-rendered {
+    max-width: 500px !important;
+    max-height: 1000px;
+}

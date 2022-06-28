@@ -168,6 +168,17 @@ optional = false
 python-versions = ">=3.6"
 
 [[package]]
+name = "mkdocs-video"
+version = "1.3.0"
+description = ""
+category = "main"
+optional = false
+python-versions = ">=3.6"
+
+[package.dependencies]
+mkdocs = ">=1.1.0,<2"
+
+[[package]]
 name = "packaging"
 version = "21.3"
 description = "Core utilities for Python packages"
@@ -283,7 +294,7 @@ testing = ["pytest (>=6)", "pytest-checkdocs (>=2.4)", "pytest-flake8", "pytest-
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.10"
-content-hash = "b3f7aab1905b9a4b3ae0b1001f76a275db6551248428e65ae4a66fbd1b73f7bb"
+content-hash = "314accb462473a12f49955bf03a3b183c8c9854d5f56562f15c7a2259094a63b"
 
 [metadata.files]
 bracex = [
@@ -379,6 +390,10 @@ mkdocs-material = [
 mkdocs-material-extensions = [
     {file = "mkdocs-material-extensions-1.0.3.tar.gz", hash = "sha256:bfd24dfdef7b41c312ede42648f9eb83476ea168ec163b613f9abd12bbfddba2"},
     {file = "mkdocs_material_extensions-1.0.3-py3-none-any.whl", hash = "sha256:a82b70e533ce060b2a5d9eb2bc2e1be201cf61f901f93704b4acf6e3d5983a44"},
+]
+mkdocs-video = [
+    {file = "mkdocs-video-1.3.0.tar.gz", hash = "sha256:900a7da60aff6d313d3aec47348bb7c87ec2ad39bad27a1146fa153fafd61e44"},
+    {file = "mkdocs_video-1.3.0-py3-none-any.whl", hash = "sha256:6512887d65e65f4fb643b64e3f4cc7e365ce27d0ff4c4b48de8d91b04ea89731"},
 ]
 packaging = [
     {file = "packaging-21.3-py3-none-any.whl", hash = "sha256:ef103e05f519cdc783ae24ea4e2e0f508a9c99b2d4969652eed6a2e1ea5bd522"},
