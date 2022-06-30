@@ -68,7 +68,7 @@
 
     Short presentation: **Armita Safa (Hach lab, VPC)**
 
-- [March 16th, 2022, Wednesday](./archive/2022-03-16.md)
+- [March 16th, 2022, Wednesday](./archive/2022/2022-03-16.md)
 
     :material-clock: 11:00am PST online
 
@@ -78,7 +78,7 @@
 
     Short presentation: **Angela McLaughlin (Joy lab, BCCfE)**
 
-- [April 20th, 2022, Wednesday](./archive/2022-04-20.md)
+- [April 20th, 2022, Wednesday](./archive/2022/2022-04-20.md)
 
     :material-clock: 11:00am PST online
 

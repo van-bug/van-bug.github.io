@@ -1,0 +1,5 @@
+.venv
+downloads
+.pytest_cache
+.mypy_cache
+.requests_cache*
