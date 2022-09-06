@@ -10,9 +10,9 @@
 
     :material-map-marker:  St. Paul's Hospital Site: [Cullen Room (SPH1477)](https://drive.google.com/file/d/1VBdWxJj_WJeWCcdox4RY5wFWI2F5Gfgy/view?usp=sharing)
 
-    Speaker: **Geoffrey Schiebinger**
+    Featured Speaker: **Geoffrey Schiebinger**
 
-    Short presentation: **TBA**
+    Trainee Speaker: **TBA**
 
 - October 20th, 2022, Thursday
 
@@ -20,9 +20,9 @@
 
     :material-map-marker:  St. Paul's Hospital Site: [Cullen Room (SPH1477)](https://drive.google.com/file/d/1VBdWxJj_WJeWCcdox4RY5wFWI2F5Gfgy/view?usp=sharing)
 
-    Speaker: **TBA**
+    Featured Speaker: **TBA**
 
-    Short presentation: **TBA**
+    Trainee Speaker: **TBA**
 
 - November 17th, 2022, Thursday
 
@@ -30,9 +30,9 @@
 
     :material-map-marker:  St. Paul's Hospital Site: [Cullen Room (SPH1477)](https://drive.google.com/file/d/1VBdWxJj_WJeWCcdox4RY5wFWI2F5Gfgy/view?usp=sharing)
 
-    Speaker: **TBA**
+    Featured Speaker: **TBA**
 
-    Short presentation: **TBA**
+    Trainee Speaker: **TBA**
 
 - December 8th, 2022, Thursday
 
@@ -40,10 +40,8 @@
 
     :material-map-marker:  TBA
 
-    Speaker: **TBA**
+    Featured Speaker: **TBA**
 
-    Short presentation: **TBA**
+    Trainee Speaker: **TBA**
 
 </div>
-
-
