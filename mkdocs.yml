@@ -1,4 +1,4 @@
-site_name: VanBUG (Beta)
+site_name: VanBUG
 docs_dir: src
 theme:
   name: material
