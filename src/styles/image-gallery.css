@@ -1,0 +1,27 @@
+.image-gallery ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: grid;
+    grid-template-columns: masonry;
+    grid-template-rows: repeat(1fr, 1fr);
+}
+
+.image-gallery ul li {
+    margin: 0;
+    margin-bottom: 30px;
+    /* border: 1px solid red; */
+    display: inline-block;
+
+    max-width: 500px;
+    max-height: 300px;
+    min-height: 200px;
+    min-width: 200px;
+}
+
+
+/* image */
+/* .image-gallery ul li  img {
+    max-width: 100%;
+    max-height: 100%;
+} */
