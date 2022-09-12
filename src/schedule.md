@@ -4,7 +4,7 @@
 
 <div class="timeline" markdown="1">
 
-- September 15th, 2022, Thursday
+- [September 15th, 2022, Thursday](./archive/2022/2022-09-15.md)
 
     :material-clock: 6:00pm - 9:00pm PT
 
