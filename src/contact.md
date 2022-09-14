@@ -12,10 +12,11 @@ Find directions to VanBUG using [Google maps](http://maps.google.com/maps?q=675+
 
 VanBUG<br>
 c/o William Hsiao<br>
-BCCDC Public Health Microbiology & Reference Laboratory<br>
-Rm 2068, 655 West 12th Avenue<br>
-Vancouver, British Columbia<br>
-V5Z 4R4 Canada
+The Centre for Infectious Disease Genomics and One Health<br>
+Simon Fraser University, Blusson Hall 11750<br>
+8888 University Drive<br>
+Burnaby, British Columbia<br>
+V5A 1S6 Canada
 
 **Mailing List:**
 
