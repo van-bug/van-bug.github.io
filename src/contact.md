@@ -17,6 +17,12 @@ Rm 2068, 655 West 12th Avenue<br>
 Vancouver, British Columbia<br>
 V5Z 4R4 Canada
 
+**Mailing List:**
+
+We use our low-volume mailing list to diseminate information about our events and job postings.<br>
+To subscribe, send an email with subject line “*subscribe*” to [vanbug-announcement-request@sfu.ca](vanbug-announcement-request@sfu.ca).<br>
+To unsubscribe, send an email with subject line “*unsubscribe*” to the same address.<br>
+
 ### [**Suggest a Speaker**](https://forms.gle/kXtGzhC2t9ngxnHz5 "Suggest a Speaker")
 
 ## Acknowledgements
