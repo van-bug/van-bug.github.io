@@ -41,6 +41,7 @@ To unsubscribe, send an email with subject line “*unsubscribe*” to the same 
 - Armita Safa, MSc student, Hach Lab, Vancouver Prostate Centre, UBC
 - Caralyn Reisle, PhD candidate, Jones Lab, Canada’s Michael Smith Genome Sciences Centre, UBC
 - Rodrigo Vallejos, PhD student, Huntsman Lab, BC Cancer Research, UBC
+- Johnathan Wong, MSc student, Birol Lab, Canada’s Michael Smith Genome Sciences Centre, UBC
 
 ### Special thanks go to the following friends of VanBUG
 
