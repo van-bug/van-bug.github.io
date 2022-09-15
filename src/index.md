@@ -6,7 +6,7 @@ VanBUG meets every month from September through April. Research presentations by
 
 [Upcoming meetings](./schedule) will be held at St. Paul's Hospital from 6:00pm to 9:00pm and are free and open to all. ZOOM information for remote attendees will be made available the day of the event.
 
-As a service to the community, other bioinformatics events are posted to the [Calendar](https://calendar.google.com/calendar/u/1?cid=dmFuYmlvaW5mb0BnbWFpbC5jb20).
+As a service to the community, other bioinformatics events are posted to the [Calendar](https://calendar.google.com/calendar/embed?src=vanbioinfo%40gmail.com&ctz=America%2FVancouver).
 Visit our sister groups for bioinformatics events in Montreal ([MonBUG](https://www.monbug.ca/)) and now Toronto ([TorBUG](https://torbug.org/))!
 
 ## VanBUG Seminar
