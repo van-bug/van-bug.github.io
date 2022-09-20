@@ -36,6 +36,7 @@ extra_css:
 - styles/timeline.css
 - styles/palette.css
 - styles/general.css
+- styles/image-gallery.css
 plugins:
   - awesome-pages
   - search
