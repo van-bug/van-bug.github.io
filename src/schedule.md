@@ -4,7 +4,7 @@
 
 <div class="timeline" markdown="1">
 
-- [September 15th, 2022, Thursday](./archive/2022/2022-09-15.md)
+- ### [September 15th, 2022, Thursday](./archive/2022/2022-09-15.md)
 
     :material-clock: 6:00pm - 9:00pm PT
 
@@ -14,7 +14,7 @@
 
     Trainee Speaker: **TBA**
 
-- October 20th, 2022, Thursday
+- ### October 20th, 2022, Thursday
 
     :material-clock: 6:00pm - 9:00pm PT
 
@@ -24,7 +24,7 @@
 
     Trainee Speaker: **TBA**
 
-- November 17th, 2022, Thursday
+- ### November 17th, 2022, Thursday
 
     :material-clock: 6:00pm - 9:00pm PT
 
@@ -34,7 +34,7 @@
 
     Trainee Speaker: **TBA**
 
-- December 8th, 2022, Thursday
+- ### December 8th, 2022, Thursday
 
     :material-clock: TBA
 

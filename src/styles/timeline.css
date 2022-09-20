@@ -20,7 +20,7 @@
   z-index: 1;
 }
 
-.timeline ul li>p {
+.timeline ul li>p, .timeline ul li>h3 {
   position: relative;
   bottom: 0;
   width: 600px;
@@ -32,7 +32,7 @@
 
 
 
-.timeline ul li>p:first-child {
+.timeline ul li>*:first-child {
   padding-top: 15px;
   border-top-left-radius: 5px;
   border-top-right-radius: 5px;
@@ -55,12 +55,12 @@
   border-style: solid;
 }
 
-.timeline ul li>p {
+.timeline ul li>p, .timeline ul li>h3 {
   left: 45px;
   margin: 0;
 }
 
-.timeline ul li>p::before {
+.timeline ul li>p::before, .timeline ul li>h3::before {
   left: -15px;
   border-width: 8px 16px 8px 0;
   border-color: transparent var(--md-accent-fg-color--light) transparent transparent;
