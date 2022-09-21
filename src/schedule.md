@@ -14,15 +14,15 @@
 
     Trainee Speaker: **TBA**
 
-- ### October 20th, 2022, Thursday
+- ### [October 20th, 2022, Thursday](./archive/2022/2022-10-20.md)
 
     :material-clock: 6:00pm - 9:00pm PT
 
     :material-map-marker:  St. Paul's Hospital Site: [Cullen Room (SPH1477)](https://drive.google.com/file/d/1VBdWxJj_WJeWCcdox4RY5wFWI2F5Gfgy/view?usp=sharing)
 
-    Featured Speaker: **TBA**
+    Featured Speaker: **Jessica Dennis**
 
-    Trainee Speaker: **TBA**
+    Trainee Speaker: **Fiel Dimayacyac**
 
 - ### November 17th, 2022, Thursday
 
