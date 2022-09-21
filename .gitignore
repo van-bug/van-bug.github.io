@@ -3,3 +3,4 @@ downloads
 .pytest_cache
 .mypy_cache
 .requests_cache*
+__pycache__
