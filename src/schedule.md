@@ -4,7 +4,7 @@
 
 <div class="timeline" markdown="1">
 
-- [September 15th, 2022, Thursday](./archive/2022/2022-09-15.md)
+- ### [September 15th, 2022, Thursday](./archive/2022/2022-09-15.md)
 
     :material-clock: 6:00pm - 9:00pm PT
 
@@ -14,7 +14,17 @@
 
     Trainee Speaker: **TBA**
 
-- October 20th, 2022, Thursday
+- ### [October 20th, 2022, Thursday](./archive/2022/2022-10-20.md)
+
+    :material-clock: 6:00pm - 9:00pm PT
+
+    :material-map-marker:  St. Paul's Hospital Site: [Cullen Room (SPH1477)](https://drive.google.com/file/d/1VBdWxJj_WJeWCcdox4RY5wFWI2F5Gfgy/view?usp=sharing)
+
+    Featured Speaker: **Jessica Dennis**
+
+    Trainee Speaker: **Fiel Dimayacyac**
+
+- ### November 17th, 2022, Thursday
 
     :material-clock: 6:00pm - 9:00pm PT
 
@@ -24,17 +34,7 @@
 
     Trainee Speaker: **TBA**
 
-- November 17th, 2022, Thursday
-
-    :material-clock: 6:00pm - 9:00pm PT
-
-    :material-map-marker:  St. Paul's Hospital Site: [Cullen Room (SPH1477)](https://drive.google.com/file/d/1VBdWxJj_WJeWCcdox4RY5wFWI2F5Gfgy/view?usp=sharing)
-
-    Featured Speaker: **TBA**
-
-    Trainee Speaker: **TBA**
-
-- December 8th, 2022, Thursday
+- ### December 8th, 2022, Thursday
 
     :material-clock: TBA
 
