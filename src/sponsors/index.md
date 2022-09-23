@@ -12,11 +12,12 @@ VanBUG is supported by the following organizations
 
 <div class='image-gallery' markdown='1'>
 
-- [![NCERC CREATE Bioinformatics Graduate Program](./images/bcbioinformaticsgrad.logo.png)](https://bcbioinformaticsgrad.ca)
+- [![Bioinformatics Graduate Program at UBC and SFU](./images/bcbioinformaticsgrad.logo.png)](https://bcbioinformaticsgrad.ca)
 - [![Genome BC](./images/genomebc.logo.jpg)](http://www.genomebc.ca)
-- [![Canexia Health](./images/canexia.logo.svg)](https://canexiahealth.com)
+- [![Imagia Canexia Health](./images/canexia.logo.png)](https://imagiacanexiahealth.com)
 - [![Langara College](./images/langara.logo.png)](https://langara.ca)
 - [![Stemcell Technologies](./images/stemcell.logo.png)](https://www.stemcell.com)
+- [![St. Paul's Hospital](./images/stpauls.logo.png)](https://www.providencehealthcare.org/hospitals-residences/st-paul%27s-hospital)
 
 </div>
 
