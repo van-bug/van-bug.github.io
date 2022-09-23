@@ -17,6 +17,7 @@ VanBUG is supported by the following organizations
 - [![Imagia Canexia Health](./images/canexia.logo.png)](https://imagiacanexiahealth.com)
 - [![Langara College](./images/langara.logo.png)](https://langara.ca)
 - [![Stemcell Technologies](./images/stemcell.logo.png)](https://www.stemcell.com)
+- [![St. Paul's Hospital](./images/stpauls.logo.png)](https://www.providencehealthcare.org/hospitals-residences/st-paul%27s-hospital)
 
 </div>
 
