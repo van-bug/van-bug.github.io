@@ -12,7 +12,7 @@ VanBUG is supported by the following organizations
 
 <div class='image-gallery' markdown='1'>
 
-- [![NCERC CREATE Bioinformatics Graduate Program](./images/bcbioinformaticsgrad.logo.png)](https://bcbioinformaticsgrad.ca)
+- [![Bioinformatics Graduate Program at UBC and SFU](./images/bcbioinformaticsgrad.logo.png)](https://bcbioinformaticsgrad.ca)
 - [![Genome BC](./images/genomebc.logo.jpg)](http://www.genomebc.ca)
 - [![Imagia Canexia Health](./images/canexia.logo.png)](https://imagiacanexiahealth.com)
 - [![Langara College](./images/langara.logo.png)](https://langara.ca)
