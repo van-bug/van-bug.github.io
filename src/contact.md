@@ -2,7 +2,7 @@
 
 **Seminar Location:**
 
-Cullen Family Lecture Theatre ([Room 1477](https://mednet.med.ubc.ca/ServicesAndResources/Facilities/BuildingInformation/Documents/Providence%20-%20level%201%20conference%20room%20map%20and%20details.pdf))<br>
+[Cullen Family Lecture Theatre](https://conferencecentre.providencehealthcare.org/facilities/cullen-family-lecture-theatre) (Room 1477)<br>
 Providence Building, Level 1<br>
 St. Paul's Hospital<br>
 [1081 Burrard Street, Vancouver, BC](https://goo.gl/maps/uCFbWCXcVrLmMnch7)<br>
