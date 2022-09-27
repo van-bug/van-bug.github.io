@@ -37,7 +37,7 @@ To unsubscribe, send an email with subject line “*unsubscribe*” to the same 
 - Faraz Hach, Assistant Professor, Vancouver Prostate Centre, UBC
 - Venus Lau, Custom Solutions Lead, Magna Labs
 - Ka Ming Nip, PhD candidate, Birol Lab, Canada’s Michael Smith Genome Sciences Centre, UBC
-- Baraa Orabi, PhD student, Hach Lab, Vancouver Prostate Centre, UBC
+- Baraa Orabi, PhD candidate, Hach Lab, Vancouver Prostate Centre, UBC
 - William Casazza, PhD candidate, Dennis Lab and Mostafavi Lab, BC Children’s Hospital, UBC
 - Rhiannon Cameron, PhD candidate, Hsiao Lab, The Centre for Infectious Disease Genomics and One Health, SFU
 - Nafiseh Kouchekian, UBC
