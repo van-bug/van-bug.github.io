@@ -39,7 +39,7 @@ To unsubscribe, send an email with subject line “*unsubscribe*” to the same 
 - Ka Ming Nip, PhD candidate, Birol Lab, Canada’s Michael Smith Genome Sciences Centre, UBC
 - Baraa Orabi, PhD student, Hach Lab, Vancouver Prostate Centre, UBC
 - William Casazza, PhD candidate, Dennis Lab and Mostafavi Lab, BC Children’s Hospital, UBC
-- Rhiannon Cameron, MSc student, Hsiao Lab, The Centre for Infectious Disease Genomics and One Health, SFU
+- Rhiannon Cameron, PhD candidate, Hsiao Lab, The Centre for Infectious Disease Genomics and One Health, SFU
 - Nafiseh Kouchekian, UBC
 - Armita Safa, MSc student, Hach Lab, Vancouver Prostate Centre, UBC
 - Caralyn Reisle, PhD candidate, Jones Lab, Canada’s Michael Smith Genome Sciences Centre, UBC
