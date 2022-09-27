@@ -1,10 +1,12 @@
 # Contact
 
-**Location:**
-Gordon and Leslie Diamond Family Theatre
-BC Cancer Research Centre , 675 West 10th Avenue
+**Seminar Location:**
 
-Find directions to VanBUG using [Google maps](http://maps.google.com/maps?q=675+West+10th+ Avenue,+VANCOUVER+BC&iwloc=A&hl=en).
+Cullen Family Lecture Theatre ([Room 1477](https://mednet.med.ubc.ca/ServicesAndResources/Facilities/BuildingInformation/Documents/Providence%20-%20level%201%20conference%20room%20map%20and%20details.pdf))<br>
+Providence Building, Level 1<br>
+St. Paul's Hospital<br>
+[1081 Burrard Street, Vancouver, BC](https://goo.gl/maps/uCFbWCXcVrLmMnch7)<br>
+V6Z 1Y6, Canada
 
 **Email:** <a href="mailto:dev@vanbug.org">dev@vanbug.org</a>
 
@@ -13,9 +15,9 @@ Find directions to VanBUG using [Google maps](http://maps.google.com/maps?q=675+
 VanBUG<br>
 c/o William Hsiao<br>
 The Centre for Infectious Disease Genomics and One Health<br>
-Simon Fraser University, Blusson Hall 11750<br>
-8888 University Drive<br>
-Burnaby, British Columbia<br>
+Blusson Hall, Room 11008<br>
+Simon Fraser University<br>
+8888 University Drive, Burnaby, BC<br>
 V5A 1S6 Canada
 
 **Mailing List:**
