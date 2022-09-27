@@ -12,8 +12,6 @@
 
     Featured Speaker: **Geoffrey Schiebinger**
 
-    Trainee Speaker: **TBA**
-
 - ### [October 20th, 2022, Thursday](./archive/2022/2022-10-20.md)
 
     :material-clock: 6:00pm - 9:00pm PT
@@ -22,7 +20,7 @@
 
     Featured Speaker: **Jessica Dennis**
 
-    Trainee Speaker: **Fiel Dimayacyac**
+    Trainee Speaker: **Fiel Dimayacyac (Paul Pavlidis lab)**
 
 - ### November 17th, 2022, Thursday
 
@@ -32,7 +30,7 @@
 
     Featured Speaker: **TBA**
 
-    Trainee Speaker: **TBA**
+    Trainee Speaker: **Faeze Keshavarz-Rahaghi (Steven Jones lab)**
 
 - ### December 8th, 2022, Thursday
 
