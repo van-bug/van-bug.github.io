@@ -12,6 +12,6 @@ Visit our sister groups for bioinformatics events in Montreal ([MonBUG](https://
 ## VanBUG Seminar
 
 {%
-   include-markdown "./archive/2022/2022-10-20.md"
-   start="# Oct - Jessica Dennis"
+   include-markdown "./archive/2022/2022-11-17.md"
+   start="# Nov - Emma Griffiths"
 %}
