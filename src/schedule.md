@@ -32,14 +32,4 @@
 
     Trainee Speaker: **Faeze Keshavarz-Rahaghi (Steven Jones lab)**
 
-- ### December 8th, 2022, Thursday
-
-    :material-clock: TBA
-
-    :material-map-marker:  TBA
-
-    Featured Speaker: **TBA**
-
-    Trainee Speaker: **TBA**
-
 </div>
