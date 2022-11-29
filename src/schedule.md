@@ -1,35 +1,47 @@
 # Schedule
 
-## Fall 2022
+## Winter/Spring 2023
 
 <div class="timeline" markdown="1">
 
-- ### [September 15th, 2022, Thursday](./archive/2022/2022-09-15.md)
+- ### [January 19th, 2023, Thursday](./archive/2023/2023-01-19.md)
 
     :material-clock: 6:00pm - 9:00pm PT
 
     :material-map-marker:  St. Paul's Hospital: [Cullen Family Lecture Theatre (Room 1477)](https://docs.google.com/document/d/1xHHd14LcrDIZLG7RGBGneLgf12H-FJwpyH7rotQCo9k/edit?usp=sharing)
 
-    Featured Speaker: **Geoffrey Schiebinger**
+    Featured Speaker: **Dr. Heng Li**
+    
+    Introductory Speaker: **Dr. Melissa Chen (Cara Haney Lab)**
 
-- ### [October 20th, 2022, Thursday](./archive/2022/2022-10-20.md)
-
-    :material-clock: 6:00pm - 9:00pm PT
-
-    :material-map-marker:  St. Paul's Hospital: [Cullen Family Lecture Theatre (Room 1477)](https://docs.google.com/document/d/1xHHd14LcrDIZLG7RGBGneLgf12H-FJwpyH7rotQCo9k/edit?usp=sharing)
-
-    Featured Speaker: **Jessica Dennis**
-
-    Trainee Speaker: **Fiel Dimayacyac (Paul Pavlidis lab)**
-
-- ### [November 17th, 2022, Thursday](./archive/2022/2022-11-17.md)
+- ### [February 23rd, 2023, Thursday](./archive/2023/2023-02-23.md)
 
     :material-clock: 6:00pm - 9:00pm PT
 
     :material-map-marker:  St. Paul's Hospital: [Cullen Family Lecture Theatre (Room 1477)](https://docs.google.com/document/d/1xHHd14LcrDIZLG7RGBGneLgf12H-FJwpyH7rotQCo9k/edit?usp=sharing)
 
-    Featured Speaker: **Emma Griffiths**
+    Featured Speaker: **Dr. Hosna Jabbari**
 
-    Trainee Speaker: **Faeze Keshavarz-Rahaghi (Steven Jones lab)**
+    Trainee Speaker: **Caralyn Reisle (Steven Jones Lab)**
+
+- ### [March 16th, 2023, Thursday](./archive/2023/2023-03-16.md)
+
+    :material-clock: 6:00pm - 9:00pm PT
+
+    :material-map-marker:  St. Paul's Hospital: [Cullen Family Lecture Theatre (Room 1477)](https://docs.google.com/document/d/1xHHd14LcrDIZLG7RGBGneLgf12H-FJwpyH7rotQCo9k/edit?usp=sharing)
+
+    Featured Speaker: **Dr. Karin Verspoor**
+
+    Trainee Speaker: **Andrew Galbraith (Steven Jones Lab)**
+
+- ### [April 20th, 2023, Thursday](./archive/2023/2023-04-20.md)
+
+    :material-clock: 6:00pm - 9:00pm PT
+
+    :material-map-marker:  St. Paul's Hospital: [Cullen Family Lecture Theatre (Room 1477)](https://docs.google.com/document/d/1xHHd14LcrDIZLG7RGBGneLgf12H-FJwpyH7rotQCo9k/edit?usp=sharing)
+
+    Featured Speaker: **Dr. Yongjin Park**
+
+    Trainee Speaker: **Hans Ghezzi (Carolina Tropini Lab)**
 
 </div>
