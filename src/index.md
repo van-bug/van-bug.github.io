@@ -11,6 +11,6 @@ Visit our sister groups for bioinformatics events in Montreal ([MonBUG](https://
 ## VanBUG Seminar
 
 {%
-   include-markdown "./archive/2022/2022-11-17.md"
-   start="# Nov - Emma Griffiths"
+   include-markdown "./archive/2023/2023-01-19.md"
+   start="# Jan - Heng Li"
 %}
