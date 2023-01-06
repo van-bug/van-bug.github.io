@@ -8,7 +8,7 @@ St. Paul's Hospital<br>
 [1081 Burrard Street, Vancouver, BC](https://goo.gl/maps/uCFbWCXcVrLmMnch7)<br>
 V6Z 1Y6, Canada
 
-**Email:** <a href="mailto:dev@vanbug.org">dev@vanbug.org</a>
+**Email:** wwhsiao \_AT_ sfu \_DOT_ ca ; kamingnip \_AT_ gmail \_DOT_ com
 
 **Mailing Address:**
 
