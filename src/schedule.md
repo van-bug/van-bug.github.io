@@ -14,7 +14,7 @@
     
     Introductory Speaker: **Dr. Melissa Chen (Cara Haney Lab)**
 
-- ### [February 23rd, 2023, Thursday](./archive/2023/2023-02-23.md)
+- ### [February 16th, 2023, Thursday](./archive/2023/2023-02-16.md)
 
     :material-clock: 6:00pm - 9:00pm PT
 
@@ -24,7 +24,7 @@
 
     Trainee Speaker: **Caralyn Reisle (Steven Jones Lab)**
 
-- ### [March 16th, 2023, Thursday](./archive/2023/2023-03-16.md)
+- ### [March 9th, 2023, Thursday](./archive/2023/2023-03-09.md)
 
     :material-clock: 6:00pm - 9:00pm PT
 
