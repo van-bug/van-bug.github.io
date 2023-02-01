@@ -2,13 +2,13 @@
 
 VanBUG is possible through the work of volunteers, however we welcome support in order to bring in outside speakers and host other significant events.
 
-If you’re interested in sponsoring an event (a night, a term, or a year) please contact us at [dev@vanbug.org](mailto:dev@vanbug.org)
+If you are interested in sponsoring our events (a single event, a term, or a year), please [contact us](https://www.vanbug.org/contact/).
 
-VanBUG welcomes bioinformatics-related companies to present short (maximum 10 minutes) presentations before VanBUG meetings. To discuss this with the VanBUG team, please contact us at: [dev@vanbug.org](mailto:dev@vanbug.org).
+VanBUG welcomes bioinformatics-related companies to present short (maximum 10 minutes) presentations before VanBUG meetings. Please [contact us](https://www.vanbug.org/contact/) for more details.
 
 ## Current Sponsors
 
-VanBUG is supported by the following organizations
+VanBUG is supported by the following organizations:
 
 <div class='image-gallery' markdown='1'>
 
