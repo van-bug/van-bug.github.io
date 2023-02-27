@@ -11,6 +11,6 @@ Visit our sister groups for bioinformatics events in Montreal ([MonBUG](https://
 ## VanBUG Seminar
 
 {%
-   include-markdown "./archive/2023/2023-02-16.md"
-   start="# Feb - Hosna Jabbari"
+   include-markdown "./archive/2023/2023-03-09.md"
+   start="# Mar - Karin Verspoor"
 %}
