@@ -44,7 +44,7 @@
 
     Trainee Speaker: **Hans Ghezzi (Carolina Tropini Lab)**
 
-- ## May 11th, 2023, Thursday
+- ## [May 11th, 2023, Thursday](./archive/2023/2023-05-11.md)
 
     :material-clock: 6:00pm - 9:00pm PT
 
