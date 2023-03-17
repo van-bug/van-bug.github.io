@@ -8,9 +8,13 @@ As a service to the community, other bioinformatics events are posted to the [Ca
 
 Visit our sister groups for bioinformatics events in Montreal ([MonBUG](https://www.monbug.ca/)) and now Toronto ([TorBUG](https://torbug.org/))!
 
+## VanBUG Special Event
+
+Check-out the [Lay-Terms Talks Competition](https://www.vanbug.org/archive/2023/2023-05-11/) coming up on May 11th, 2023
+
 ## VanBUG Seminar
 
 {%
-   include-markdown "./archive/2023/2023-03-09.md"
-   start="# Mar - Karin Verspoor"
+   include-markdown "./archive/2023/2023-04-20.md"
+   start="# Apr - Yongjin Park"
 %}
