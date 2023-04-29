@@ -10,11 +10,7 @@ Visit our sister groups for bioinformatics events in Montreal ([MonBUG](https://
 
 ## VanBUG Special Event
 
-Check-out the [Lay-Terms Talks Competition](https://www.vanbug.org/archive/2023/2023-05-11/) coming up on May 11th, 2023
-
-## VanBUG Seminar
-
 {%
-   include-markdown "./archive/2023/2023-04-20.md"
-   start="# Apr - Yongjin Park"
+   include-markdown "./archive/2023/2023-05-11.md"
+   start="# May - Lay-Terms Talks Competition"
 %}
