@@ -12,5 +12,5 @@ Visit our sister groups for bioinformatics events in Montreal ([MonBUG](https://
 
 {%
    include-markdown "./archive/2023/2023-05-11.md"
-   start="# May - Lay-Terms Talks Competition"
+   start="# Lay-Terms Talks Competition 2023"
 %}
