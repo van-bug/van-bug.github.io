@@ -35,17 +35,17 @@ To unsubscribe, send an email with subject line “*unsubscribe*” to the same 
 - William Hsiao, Associate Professor, Faculty of Health Sciences, SFU
 - Amy Lee, Assistant Professor, Dept of Molecular Biology and Biochemistry, SFU
 - Faraz Hach, Assistant Professor, Vancouver Prostate Centre, UBC
-- Venus Lau, Custom Solutions Lead, Magna Labs
+- Venus Lau, PhD, Custom Solutions Lead, Magna Labs
 - Ka Ming Nip, PhD candidate, Birol Lab, Canada’s Michael Smith Genome Sciences Centre, UBC
 - Baraa Orabi, PhD candidate, Hach Lab, Vancouver Prostate Centre, UBC
 - William Casazza, PhD candidate, Dennis Lab and Mostafavi Lab, BC Children’s Hospital, UBC
 - Rhiannon Cameron, PhD candidate, Hsiao Lab, The Centre for Infectious Disease Genomics and One Health, SFU
-- Nafiseh Kouchekian, UBC
-- Armita Safa, MSc student, Hach Lab, Vancouver Prostate Centre, UBC
 - Caralyn Reisle, PhD candidate, Jones Lab, Canada’s Michael Smith Genome Sciences Centre, UBC
-- Rodrigo Vallejos, PhD student, Huntsman Lab, BC Cancer Research, UBC
 - Juliana Sobral de Barros, PhD student, Huntsman Lab, BC Cancer Research, UBC
 - Johnathan Wong, MSc student, Birol Lab, Canada’s Michael Smith Genome Sciences Centre, UBC
+- Fatemeh Hosseini, BSc Biology student, Langara College
+- Parham Kazemi, PhD student, Birol Lab, Canada’s Michael Smith Genome Sciences Centre, UBC
+- Bardia Masudy, BSc Biochemistry and Chemistry, UBC
 
 ### Special thanks go to the following friends of VanBUG
 
@@ -78,3 +78,5 @@ To unsubscribe, send an email with subject line “*unsubscribe*” to the same 
 - Evan Morien
 - Nicole Zhang
 - Lisa Wei
+- Nafiseh Kouchekian
+- Rodrigo Vallejos
