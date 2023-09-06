@@ -1,55 +1,55 @@
 # Schedule
 
-## Winter/Spring 2023
+## Fall 2023
 
 <div class="timeline" markdown="1">
 
-- ### [January 19th, 2023, Thursday](./archive/2023/2023-01-19.md)
+- ### [September 21st, 2023, Thursday](./archive/2023/2023-09-21.md)
 
-    :material-clock: 6:00pm - 9:00pm PT
+    :material-clock: 11:00am - 1:30pm PT
 
-    :material-map-marker:  St. Paul's Hospital: [Cullen Family Lecture Theatre (Room 1477)](https://docs.google.com/document/d/1xHHd14LcrDIZLG7RGBGneLgf12H-FJwpyH7rotQCo9k/edit?usp=sharing)
+    :material-map-marker: SFU, Big Data Hub, room ASB 10900
 
-    Featured Speaker: **Dr. Heng Li**
+    :material-video: UBC, Michael Smith Laboratories, MSL 101 (Live Stream Location)
 
-    Introductory Speaker: **Dr. Melissa Chen (Cara Haney Lab)**
+    Featured Speaker: **Dr. Keegan Korthauer**
 
-- ### [February 16th, 2023, Thursday](./archive/2023/2023-02-16.md)
+    Trainee Speaker: TBA
 
-    :material-clock: 6:00pm - 9:00pm PT
+- ### [October 19th, 2023, Thursday](./archive/2023/2023-10-19.md)
 
-    :material-map-marker:  St. Paul's Hospital: [Cullen Family Lecture Theatre (Room 1477)](https://docs.google.com/document/d/1xHHd14LcrDIZLG7RGBGneLgf12H-FJwpyH7rotQCo9k/edit?usp=sharing)
+    :material-clock: 11:00am - 1:30pm PT
 
-    Featured Speaker: **Dr. Hosna Jabbari**
+    :material-map-marker: UBC, Michael Smith Laboratories, MSL 102
 
-    Trainee Speaker: **Caralyn Reisle (Steven Jones Lab)**
+    :material-video: SFU, Big Data Hub, room ASB 10900 (Live Stream Location)
 
-- ### [March 9th, 2023, Thursday](./archive/2023/2023-03-09.md)
+    Featured Speaker: **Dr. Khanh Dao Duc**
 
-    :material-clock: 6:00pm - 9:00pm PT
+    Trainee Speaker: TBA
 
-    :material-map-marker:  St. Paul's Hospital: [Cullen Family Lecture Theatre (Room 1477)](https://docs.google.com/document/d/1xHHd14LcrDIZLG7RGBGneLgf12H-FJwpyH7rotQCo9k/edit?usp=sharing)
+- ### [November 30th, 2023, Thursday](./archive/2023/2023-11-30.md)
 
-    Featured Speaker: **Dr. Karin Verspoor**
+    :material-clock: 11:00am - 1:30pm PT
 
-    Trainee Speaker: **Andrew Galbraith (Steven Jones Lab)**
+    :material-map-marker: UBC, Michael Smith Laboratories, MSL 102
 
-- ### [April 20th, 2023, Thursday](./archive/2023/2023-04-20.md)
+    :material-video: SFU, Big Data Hub, room ASB 10900 (Live Stream Location)
 
-    :material-clock: 6:00pm - 9:00pm PT
+    Featured Speaker: **Dr. Michael Baym**
 
-    :material-map-marker:  St. Paul's Hospital: [Cullen Family Lecture Theatre (Room 1477)](https://docs.google.com/document/d/1xHHd14LcrDIZLG7RGBGneLgf12H-FJwpyH7rotQCo9k/edit?usp=sharing)
+    Trainee Speaker: TBA
 
-    Featured Speaker: **Dr. Yongjin Park**
+- ### [December 14th, 2023, Thursday](./archive/2023/2023-12-14.md)
 
-    Trainee Speaker: **Hans Ghezzi (Carolina Tropini Lab)**
+    :material-clock: 11:00am - 1:30pm PT
 
-- ### [May 11th, 2023, Thursday](./archive/2023/2023-05-11.md)
+    :material-map-marker: SFU, Big Data Hub, room ASB 10900
 
-    :material-clock: 6:00pm - 9:00pm PT
+    :material-video: UBC, Michael Smith Laboratories, MSL 102 (Live Stream Location)
 
-    :material-map-marker: Langara
+    Featured Speaker: **Dr. Sabrina Leslie**
 
-    Lay-Term Talk Competition
+    Trainee Speaker: TBA
 
 </div>

@@ -11,6 +11,6 @@ Visit our sister groups for bioinformatics events in Montreal ([MonBUG](https://
 ## VanBUG Special Event
 
 {%
-   include-markdown "./archive/2023/2023-05-11.md"
-   start="# Lay-Terms Talks Competition 2023"
+   include-markdown "./archive/2023/2023-09-21.md"
+   start="# Sep - Keegan Korthauer"
 %}
