@@ -13,11 +13,11 @@ VanBUG is supported by the following organizations:
 <div class='image-gallery' markdown='1'>
 
 - [![Bioinformatics Graduate Program at UBC and SFU](./images/bcbioinformaticsgrad.logo.png)](https://bcbioinformaticsgrad.ca)
+- [![UBC Michael Smith Laboratories](./images/michaelsmith.logo.png)](https://www.msl.ubc.ca/)
+- [![SFU Big Data Hub](./images/bigdatahub.logo.jpg)](https://www.sfu.ca/big-data.html)
 - [![Genome BC](./images/genomebc.logo.jpg)](http://www.genomebc.ca)
-- [![Imagia Canexia Health](./images/canexia.logo.png)](https://imagiacanexiahealth.com)
 - [![Langara College](./images/langara.logo.png)](https://langara.ca)
 - [![Stemcell Technologies](./images/stemcell.logo.png)](https://www.stemcell.com)
-- [![St. Paul's Hospital](./images/stpauls.logo.png)](https://www.providencehealthcare.org/hospitals-residences/st-paul%27s-hospital)
 
 </div>
 
@@ -45,5 +45,8 @@ We have previously been provided generous support from:
 - [![MITACS](./images/mitacs.logo.jpg)](https://www.mitacs.ca/en)
 - [![Pacific Institute for the Mathematical Sciences](./images/pims.logo.jpg)](http://www.pims.math.ca)
 - [![UBC Faculty of Medicine](./images/ubc-dom.logo.jpg)](https://www.med.ubc.ca)
+- [![Imagia Canexia Health](./images/canexia.logo.png)](https://imagiacanexiahealth.com)
+- [![St. Paul's Hospital](./images/stpauls.logo.png)](https://www.providencehealthcare.org/hospitals-residences/st-paul%27s-hospital)
+
 
 </div>
