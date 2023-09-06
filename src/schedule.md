@@ -10,11 +10,11 @@
 
     :material-map-marker: SFU, Big Data Hub, room ASB 10900
 
-    :material-video: UBC, Michael Smith Laboratories, MSL 102 (Live Stream Location)
+    :material-video: UBC, Michael Smith Laboratories, MSL 101 (Live Stream Location)
 
     Featured Speaker: **Dr. Keegan Korthauer**
 
-    Introductory Speaker: TBA
+    Trainee Speaker: TBA
 
 - ### [October 19th, 2023, Thursday](./archive/2023/2023-10-19.md)
 
