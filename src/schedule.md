@@ -14,7 +14,7 @@
 
     Featured Speaker: **Dr. Keegan Korthauer**
 
-    Trainee Speaker: TBA
+    Trainee Speaker: Erick Navarro
 
 - ### [October 19th, 2023, Thursday](./archive/2023/2023-10-19.md)
 
