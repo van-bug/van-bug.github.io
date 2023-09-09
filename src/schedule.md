@@ -53,3 +53,57 @@
     Trainee Speaker: TBA
 
 </div>
+
+## Winter/Spring 2024
+
+<div class="timeline" markdown="1">
+
+- ### [January 18th, 2024, Thursday]()
+
+    :material-clock: 11:00am - 1:30pm PT
+
+    :material-map-marker: TBA
+
+    :material-video: TBA
+
+    Featured Speaker: TBA
+
+    Trainee Speaker: TBA
+
+- ### [February 29th, 2024, Thursday]()
+
+    :material-clock: 11:00am - 1:30pm PT
+
+    :material-map-marker: TBA
+
+    :material-video: TBA
+
+    Featured Speaker: TBA
+
+    Trainee Speaker: TBA
+
+- ### [March 21st, 2024, Thursday]()
+
+    :material-clock: 11:00am - 1:30pm PT
+
+    :material-map-marker: TBA
+
+    :material-video: TBA
+
+    Featured Speaker: TBA
+
+    Trainee Speaker: TBA
+
+- ### [April 18th, 2024, Thursday]()
+
+    :material-clock: 11:00am - 1:30pm PT
+
+    :material-map-marker: TBA
+
+    :material-video: TBA
+
+    Featured Speaker: TBA
+
+    Trainee Speaker: TBA
+
+</div>
