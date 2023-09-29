@@ -16,11 +16,11 @@ V6T 1Z4, Canada
 
 ## **Email:**
 
-**Primary:** vanbioinfo@gmail.com
+**Primary:** vanbioinfo [at] gmail.com
 
-Volunteer Inquiries: vanbioinfo+volunteer@gmail.com
+Volunteer Inquiries: vanbioinfo+volunteer [at] gmail.com
 
-Sponsorship Inquiries: vanbioinfo+sponsors@gmail.com
+Sponsorship Inquiries: vanbioinfo+sponsors [at] gmail.com
 
 ## Mailing List:
 
