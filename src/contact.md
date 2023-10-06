@@ -6,7 +6,7 @@ The speaker will be present in-person at one location while the other location r
 
 **SFU's Big Data Hub**<br>
 [The Presentation Studio (ASB 10900)](https://www.sfu.ca/big-data/services/meeting-event-spaces.html)<br>
-[Applied Sciences Bldg, Burnaby, BC](https://maps.app.goo.gl/TtQruxPNSzihmb7k9)<br>
+Applied Sciences Bldg, Burnaby, BC ([google maps](https://maps.app.goo.gl/TtQruxPNSzihmb7k9))<br>
 V5A 0A7, Canada
 
 **UBC's Michael Smith Laboratories**<br>
