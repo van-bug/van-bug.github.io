@@ -56,7 +56,7 @@ V5A 1S6 Canada
 
 ### Special thanks go to the following friends of VanBUG
 
-- Tanya Erb (CMMT) for managing funds and scheduling travel.
+- Pratima Shrivastava for helping manage VanBUG finances.
 - VanBUG volunteers for helping with setup, cleanup and serving refreshments.
 
 ### VanBug Team Alumni
