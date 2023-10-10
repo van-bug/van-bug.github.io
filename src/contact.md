@@ -11,7 +11,7 @@ V5A 0A7, Canada
 
 **UBC's Michael Smith Laboratories**<br>
 [Room 102: Lecture Theatre](https://www.msl.ubc.ca/room/room-102-lecture-theatre/)<br>
-[2185 East Mall, Vancouver, BC](https://maps.app.goo.gl/tL3N1vpGsADNndq46)<br>
+2185 East Mall, Vancouver, BC ([google maps](https://maps.app.goo.gl/tL3N1vpGsADNndq46))<br>
 V6T 1Z4, Canada
 
 ## **Email:**
@@ -50,7 +50,6 @@ V5A 1S6 Canada
 - Rhiannon Cameron, PhD candidate, Hsiao Lab, The Centre for Infectious Disease Genomics and One Health, SFU
 - Caralyn Reisle, PhD candidate, Jones Lab, Canada’s Michael Smith Genome Sciences Centre, UBC
 - Johnathan Wong, MSc student, Birol Lab, Canada’s Michael Smith Genome Sciences Centre, UBC
-- Fatemeh Hosseini, BSc Biology student, Langara College
 - Parham Kazemi, PhD student, Birol Lab, Canada’s Michael Smith Genome Sciences Centre, UBC
 - Bardia Masudy, BSc Biochemistry and Chemistry, UBC
 
@@ -92,3 +91,4 @@ V5A 1S6 Canada
 - Baraa Orabi
 - William Casazza
 - Juliana Sobral de Barros
+- Fatemeh Hosseini
