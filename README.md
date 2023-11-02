@@ -30,3 +30,9 @@ When editing the markdown docs I reccommend using vscode and installing a few he
 
 - markdownlint ([DavidAnson.vscode-markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint))
 - Markdown All in One ([yzhang.markdown-all-in-one](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one))
+
+After you have added the extensions, put the following line in your settings.json (or using the GUI version) for vscode
+
+```json
+    "markdown.extension.toc.levels": "2..4",
+```
