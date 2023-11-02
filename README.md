@@ -23,3 +23,16 @@ Your build docs should now be available on localhost:8000
 If you need to simply make a small change to one of the markdown files that can be done directly in GitHub by navigating to the page
 
 ![edit file in github](./docs/github-edit-page.png)
+
+## Useful Tools
+
+When editing the markdown docs I reccommend using vscode and installing a few helpful markdown extensions. These extensions will do helpful things like auto-formatting lists, auto-adding table of contents etc. The liting will also help you see when you have made any style errors in your markdown file
+
+- markdownlint ([DavidAnson.vscode-markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint))
+- Markdown All in One ([yzhang.markdown-all-in-one](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one))
+
+After you have added the extensions, put the following line in your settings.json (or using the GUI version) for vscode
+
+```json
+    "markdown.extension.toc.levels": "2..4",
+```
