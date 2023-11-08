@@ -11,6 +11,6 @@ Visit our sister groups for bioinformatics events in Montreal ([MonBUG](https://
 ## VanBUG Special Event
 
 {%
-   include-markdown "./archive/2023/2023-10-19.md"
-   start="# Oct - Khanh Dao Duc"
+   include-markdown "./archive/2023/2023-11-30.md"
+   start="# Nov - Michael Baym"
 %}
