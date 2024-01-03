@@ -4,7 +4,7 @@
 
 <div class="timeline" markdown="1">
 
-- ### [January 18th, 2024, Thursday]()
+- ### [January 18th, 2024, Thursday](./archive/2024/2024-01-18.md)
 
     :material-clock: 11:00am - 1:30pm PT
 

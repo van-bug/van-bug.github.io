@@ -1,26 +1,22 @@
 # <MMM> - <SPEAKER_NAME>
 
-![type:video](https://www.youtube.com/embed/<CODE>)
-
 !!! info "Event Details"
 
-    **Date/Time:**
+     **Date/Time:**
 
-    Wednesday, April 20th, 2022 :material-clock: 11:00am ~ 12:00pm PT
+    Thursday, <MONTH> <DAY>, 2024 :material-clock: 11:00am - 1:30pm PT
 
-    :material-map-marker: **Location:** St. Paul's Hospital ([1081 Burrard Street, Vancouver, BC V6Z 1Y6](https://goo.gl/maps/uCFbWCXcVrLmMnch7)), Cullen Family Lecture Theatre ([Providence Building, Level 1, Room 1477](https://docs.google.com/document/d/1xHHd14LcrDIZLG7RGBGneLgf12H-FJwpyH7rotQCo9k/edit?usp=sharing))
+    **Location:**
 
-    **Zoom Meeting:**
+    :material-map-marker:  UBC, Michael Smith Laboratories, MSL 102  <MAIN LOCATION>
 
-    <URL PENDING>
-    <br>Meeting ID: <PENDING>
-    <br>Password: <PENDING>
-    <br>Dial by your location <PENDING>
-    <br>Find your local number: <PENDING>
+    :material-video: SFU Big Data Hub, room ASB 10900 (Live Stream Location)
 
 **Featured Speaker**: <SPEAKER_NAME>
 
 **Talk Title:** <TITLE>
+
+![type:video](https://www.youtube.com/embed/<CODE>)
 
 **Affiliation:** <TODO>
 
