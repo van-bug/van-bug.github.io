@@ -4,18 +4,6 @@
 
 <div class="timeline" markdown="1">
 
-- ### [January 18th, 2024, Thursday](./archive/2024/2024-01-18.md)
-
-    :material-clock: 11:00am - 1:30pm PT
-
-    :material-map-marker:  UBC, Michael Smith Laboratories, MSL 102
-
-    :material-video: SFU Big Data Hub, room ASB 10900 (Live Stream Location)
-
-    Featured Speaker: TBA
-
-    Trainee Speaker: Yerin Kim
-
 - ### [February 29th, 2024, Thursday]()
 
     :material-clock: 11:00am - 1:30pm PT
