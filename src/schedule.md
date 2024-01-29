@@ -8,9 +8,9 @@
 
     :material-clock: 11:00am - 1:30pm PT
 
-    :material-map-marker: SFU Big Data Hub, room ASB 10900
+    :material-video:  UBC, Michael Smith Laboratories, MSL 102
 
-    :material-video:  UBC, Michael Smith Laboratories, MSL 102 (Live Stream Location)
+    :material-video: SFU Big Data Hub, room ASB 10900 (Live Stream Location)
 
     Featured Speaker: Dr. Ana Conesa
 
