@@ -8,7 +8,7 @@ As a service to the community, local VanBUG and other bioinformatics events are 
 
 Visit our sister groups for bioinformatics events in Montreal ([MonBUG](https://www.monbug.ca/)) and Toronto ([TorBUG](https://torbug.org/))!
 
-## VanBUG Special Event
+## VanBUG Monthly Event
 
 {%
    include-markdown "./archive/2024/2024-02-29.md"
