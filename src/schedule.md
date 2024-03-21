@@ -28,7 +28,7 @@
 
     Trainee Speaker: Yerin Kim
 
-- ### [Maay 9th, 2024, Thursday](./archive/2024/2024-05-09.md)
+- ### [May 9th, 2024, Thursday](./archive/2024/2024-05-09.md)
 
     :material-clock: 11:00am - 1:30pm PT
 
