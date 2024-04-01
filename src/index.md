@@ -12,5 +12,5 @@ Visit our sister groups for bioinformatics events in Montreal ([MonBUG](https://
 
 {%
    include-markdown "./archive/2024/2024-04-18.md"
-   start="# Feb - Ana Conesa"
+   start="# Apr - Sean Gibbons"
 %}
