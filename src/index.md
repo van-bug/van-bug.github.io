@@ -11,6 +11,6 @@ Visit our sister groups for bioinformatics events in Montreal ([MonBUG](https://
 ## VanBUG Monthly Event
 
 {%
-   include-markdown "./archive/2024/2024-04-18.md"
-   start="# Apr - Sean Gibbons"
+   include-markdown "./archive/2024/2024-05-09.md"
+   start="# May - Sabrina Leslie"
 %}
