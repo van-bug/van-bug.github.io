@@ -1,43 +1,69 @@
 # Schedule
 
-## Winter/Spring 2024
+## Fall 2024
 
 <div class="timeline" markdown="1">
 
-- ### [February 29th, 2024, Thursday](./archive/2024/2024-02-29.md)
+- ### [Oct 18th, 2024, Friday](./archive/2024/2024-10-18.md)
+
+    :material-clock: TBD
+
+    :material-map-marker: Langara Library
+
+    2024 Season Introductory Event
+
+- ### Nov 21st, 2024, Thursday
 
     :material-clock: 11:00am - 1:30pm PT
 
-    :material-video:  UBC, Michael Smith Laboratories, MSL 102
+    :material-map-marker: Remote
 
-    :material-video: SFU Big Data Hub, room ASB 10900 (Live Stream Location)
+    :material-video: Connection Details TBA
 
-    Featured Speaker: Dr. Ana Conesa
+    Featured Speaker: TBA
 
-    Trainee Speaker: Dollina Dodani
+    Trainee Speaker: TBA
 
-- ### [April 18th, 2024, Thursday](./archive/2024/2024-04-18.md)
+</div>
 
-    :material-clock: 11:00am - 1:30pm PT
+## Winter 2025
 
-    :material-map-marker: SFU Big Data Hub, room ASB 10900
+<div class="timeline" markdown="1">
 
-    :material-video: UBC, Michael Smith Laboratories, MSL 102 (Live Stream Location)
-
-    Featured Speaker: Dr. Sean Gibbons
-
-    Trainee Speaker: Yerin Kim
-
-- ### [May 9th, 2024, Thursday](./archive/2024/2024-05-09.md)
+- ### Jan 16th, 2024, Thursday
 
     :material-clock: 11:00am - 1:30pm PT
 
-    :material-map-marker:  UBC, Michael Smith Laboratories, MSL 102
+    :material-map-marker: Remote
 
-    :material-video: SFU Big Data Hub, room ASB 10900 (Live Stream Location)
+    :material-video: Connection Details TBA
 
-    Featured Speaker: Dr. Sabrina Leslie
+    Featured Speaker: TBA
 
-    Trainee Speaker: Jordan Yu
+    Trainee Speaker: TBA
+
+- ### Feb 20th, 2024, Thursday
+
+    :material-clock: 11:00am - 1:30pm PT
+
+    :material-map-marker: Remote
+
+    :material-video: Connection Details TBA
+
+    Featured Speaker: TBA
+
+    Trainee Speaker: TBA
+
+- ### March 20th, 2024, Thursday
+
+    :material-clock: 11:00am - 1:30pm PT
+
+    :material-map-marker: Remote
+
+    :material-video: Connection Details TBA
+
+    Featured Speaker: TBA
+
+    Trainee Speaker: TBA
 
 </div>
