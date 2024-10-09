@@ -12,5 +12,5 @@ Visit our sister groups for bioinformatics events in Montreal ([MonBUG](https://
 
 {%
    include-markdown "./archive/2024/2024-10-18.md"
-   start="# Oct - 2024 Season Introductory Event"
+   start="# Oct - Bioinformatics Career Night"
 %}
