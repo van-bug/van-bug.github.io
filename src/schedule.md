@@ -2,7 +2,7 @@
 
 ## Fall 2024
 
-<div class="timeline" markdown="1">
+/// html | div[class="timeline"]
 
 - ### [Oct 18th, 2024, Friday](./archive/2024/2024-10-18.md)
 
@@ -28,11 +28,11 @@
 
     Trainee Speaker: TBA
 
-</div>
+///
 
 ## Winter 2025
 
-<div class="timeline" markdown="1">
+/// html | div[class="timeline"]
 
 - ### Jan 16th, 2024, Thursday
 
@@ -70,4 +70,4 @@
 
     Trainee Speaker: TBA
 
-</div>
+///

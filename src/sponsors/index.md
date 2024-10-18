@@ -10,7 +10,7 @@ VanBUG welcomes bioinformatics-related companies to present short (maximum 10 mi
 
 VanBUG is supported by the following organizations:
 
-<div class='image-gallery' markdown='1'>
+/// html | div[class="image-gallery"]
 
 - [![Bioinformatics Graduate Program at UBC and SFU](./images/bcbioinformaticsgrad.logo.png)](https://bcbioinformaticsgrad.ca)
 - [![UBC Michael Smith Laboratories](./images/michaelsmith.logo.png)](https://www.msl.ubc.ca/)
@@ -19,23 +19,23 @@ VanBUG is supported by the following organizations:
 - [![Langara College](./images/langara.logo.png)](https://langara.ca)
 - [![Stemcell Technologies](./images/stemcell.logo.png)](https://www.stemcell.com)
 
-</div>
+///
 
 ## Affiliations
 
-<div class='image-gallery' markdown='1'>
+/// html | div[class="image-gallery"]
 
 - [![ISCB](./images/iscb.logo.png)](http://www.iscb.org)
 - [![MonBUG](./images/monbug.logo.jpeg)](http://www.monbug.ca)
 - [![TorBUG](./images/torbug.logo.png)](http://www.torbug.org)
 
-</div>
+///
 
 ## Previous sponsors
 
 We have previously been provided generous support from:
 
-<div class='image-gallery' markdown='1'>
+/// html | div[class="image-gallery"]
 
 - [![AbCellera Biologics Inc](./images/abcellera.logo.png)](https://www.abcellera.com)
 - [![BC Cancer Research Centre](./images/bccancer.logo.png)](http://www.bccrc.ca)
@@ -48,5 +48,4 @@ We have previously been provided generous support from:
 - [![Imagia Canexia Health](./images/canexia.logo.png)](https://imagiacanexiahealth.com)
 - [![St. Paul's Hospital](./images/stpauls.logo.png)](https://www.providencehealthcare.org/hospitals-residences/st-paul%27s-hospital)
 
-
-</div>
+///

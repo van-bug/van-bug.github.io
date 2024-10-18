@@ -2,3 +2,19 @@ iframe.twitter-timeline.twitter-timeline-rendered {
     max-width: 500px !important;
     max-height: 1000px;
 }
+
+
+.bio {
+    display: grid;
+    grid-template-columns: 30% 1fr;
+}
+
+.bio> :first-child {
+    max-height: 500px;
+    grid-column: 0;
+    margin-right: 20px;
+}
+
+.bio> :first-child img {
+    max-height: 100%;
+}

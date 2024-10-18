@@ -13,14 +13,14 @@
     /* border: 1px solid red; */
     display: inline-block;
 
-    max-width: 500px;
+    max-width: 300px;
     max-height: 300px;
     min-height: 100px;
-    min-width: 300px;
+    min-width: 100px;
 }
 
 
 /* image */
-.image-gallery ul li  img {
+.image-gallery ul li img {
     width: 100%;
 }
