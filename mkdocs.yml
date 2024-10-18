@@ -16,6 +16,8 @@ markdown_extensions:
   - admonition
   - pymdownx.inlinehilite
   - pymdownx.extra
+  - pymdownx.blocks.html
+
   - pymdownx.snippets:
       check_paths: True
       base_path: .
