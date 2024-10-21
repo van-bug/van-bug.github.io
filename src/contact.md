@@ -48,9 +48,10 @@ V5A 1S6 Canada
 - Amy Lee, Assistant Professor, Dept of Molecular Biology and Biochemistry, SFU
 - Faraz Hach, Assistant Professor, Vancouver Prostate Centre, UBC
 - Caralyn Reisle, PhD candidate, Jones Lab, Canada’s Michael Smith Genome Sciences Centre, UBC
-- Johnathan Wong, MSc student, Birol Lab, Canada’s Michael Smith Genome Sciences Centre, UBC
+- Johnathan Wong, PhD student, Birol Lab, Canada’s Michael Smith Genome Sciences Centre, UBC
 - Bardia Masudy, BSc Biochemistry and Chemistry, UBC
 - Madeline Iseminger, MSc student, Hsiao Lab, The Centre for Infectious Disease Genomics and One Health, SFU
+- Yerin Kim, MSc graduate, Jones Lab, Canada’s Michael Smith Genome Sciences Centre, UBC
 
 ### Special thanks go to the following friends of VanBUG
 
@@ -93,3 +94,4 @@ V5A 1S6 Canada
 - Fatemeh Hosseini
 - Rhiannon Cameron
 - Parham Kazemi
+- Lenneth Li
