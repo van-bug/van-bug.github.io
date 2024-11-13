@@ -2,17 +2,7 @@
 
 ## **Seminar Locations:**
 
-The speaker will be present in-person at one location while the other location receives live video-streaming and Q&A. Both locations will have a post lecture social with free food and drink.
-
-**SFU's Big Data Hub**<br>
-[The Presentation Studio (ASB 10900)](https://www.sfu.ca/big-data/services/meeting-event-spaces.html)<br>
-Applied Sciences Bldg, Burnaby, BC ([google maps](https://maps.app.goo.gl/TtQruxPNSzihmb7k9))<br>
-V5A 0A7, Canada
-
-**UBC's Michael Smith Laboratories**<br>
-[Room 102: Lecture Theatre](https://www.msl.ubc.ca/room/room-102-lecture-theatre/)<br>
-2185 East Mall, Vancouver, BC ([google maps](https://maps.app.goo.gl/tL3N1vpGsADNndq46))<br>
-V6T 1Z4, Canada
+Regular seminars are held remotely, remote connection details will be provded to registrants shortly before each talk.
 
 ## **Email:**
 
