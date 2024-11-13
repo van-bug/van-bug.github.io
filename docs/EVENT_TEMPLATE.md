@@ -4,13 +4,11 @@
 
      **Date/Time:**
 
-    Thursday, <MONTH> <DAY>, 2024 :material-clock: 11:00am - 1:30pm PT
+    Thursday, <MONTH> <DAY>, 2024 :material-clock: 11:00am - 12:30pm PT
 
     **Location:**
 
-    :material-map-marker:  UBC, Michael Smith Laboratories, MSL 102  <MAIN LOCATION>
-
-    :material-video: SFU Big Data Hub, room ASB 10900 (Live Stream Location)
+    :material-video: Remote
 
 **Featured Speaker**: <SPEAKER_NAME>
 

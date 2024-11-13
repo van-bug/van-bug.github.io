@@ -3,10 +3,12 @@ iframe.twitter-timeline.twitter-timeline-rendered {
     max-height: 1000px;
 }
 
-
-.bio {
-    display: grid;
-    grid-template-columns: 30% 1fr;
+/* use two column layout when there is space to do so */
+@media (min-width: 700px) {
+    .bio {
+        display: grid;
+        grid-template-columns: 30% 1fr;
+    }
 }
 
 .bio> :first-child {
@@ -16,5 +18,5 @@ iframe.twitter-timeline.twitter-timeline-rendered {
 }
 
 .bio> :first-child img {
-    max-height: 100%;
+    max-height: 500px;
 }
