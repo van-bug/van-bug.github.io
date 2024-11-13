@@ -24,9 +24,9 @@
 
     :material-video: Connection Details TBA
 
-    Featured Speaker: TBA
+    Featured Speaker: Dr. Can Alkan
 
-    Trainee Speaker: TBA
+    Trainee Speaker: Madeline Iseminger
 
 ///
 
