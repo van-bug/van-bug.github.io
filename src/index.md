@@ -11,6 +11,6 @@ Visit our sister groups for bioinformatics events in Montreal ([MonBUG](https://
 ## VanBUG Monthly Event
 
 {%
-   include-markdown "./archive/2024/2024-11-21.md"
-   start="# Nov - Can Alkan"
+   include-markdown "./archive/2025/2025-01-16.md"
+   start="# Jan - Graeme Koelwyn"
 %}
