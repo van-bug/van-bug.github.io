@@ -18,7 +18,7 @@
 
 - ### Nov 21st, 2024, Thursday
 
-    :material-clock: 11:00am - 1:30pm PT
+    :material-clock: 11:00am - 12:30pm PT
 
     :material-map-marker: Remote
 
@@ -34,9 +34,21 @@
 
 /// html | div[class="timeline"]
 
-- ### Jan 16th, 2024, Thursday
+- ### Jan 16th, 2025, Thursday
 
-    :material-clock: 11:00am - 1:30pm PT
+    :material-clock: 11:00am - 12:30pm PT
+
+    :material-map-marker: Remote
+
+    :material-video: Connection Details TBA
+
+    Featured Speaker: Dr. Graeme Koelwyn
+
+    Trainee Speaker: Rituparna Banerjee
+
+- ### Feb 20th, 2025, Thursday
+
+    :material-clock: 11:00am - 12:30pm PT
 
     :material-map-marker: Remote
 
@@ -46,21 +58,9 @@
 
     Trainee Speaker: TBA
 
-- ### Feb 20th, 2024, Thursday
+- ### March 20th, 2025, Thursday
 
-    :material-clock: 11:00am - 1:30pm PT
-
-    :material-map-marker: Remote
-
-    :material-video: Connection Details TBA
-
-    Featured Speaker: TBA
-
-    Trainee Speaker: TBA
-
-- ### March 20th, 2024, Thursday
-
-    :material-clock: 11:00am - 1:30pm PT
+    :material-clock: 11:00am - 12:30pm PT
 
     :material-map-marker: Remote
 
