@@ -15,8 +15,7 @@ Sponsorship Inquiries: vanbioinfo+sponsors [at] gmail.com
 ## Mailing List
 
 We use our low-volume mailing list to diseminate information about our events and job postings.<br>
-To subscribe, send an email with subject line “*subscribe*” to [vanbug-announcement-request@sfu.ca](mailto:vanbug-announcement-request@sfu.ca?subject=subscribe).<br>
-To unsubscribe, send an email with subject line “*unsubscribe*” to the same address.<br>
+To subscribe, fill out [this form](https://dashboard.mailerlite.com/forms/1208260/139100012863816994/share).<br>
 
 ### [**Suggest a Speaker**](https://forms.gle/kXtGzhC2t9ngxnHz5 "Suggest a Speaker")
 
