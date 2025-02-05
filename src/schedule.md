@@ -54,9 +54,9 @@
 
     :material-video: Connection Details TBA
 
-    Featured Speaker: TBA
+    Featured Speaker: Dr. Rob Patro
 
-    Trainee Speaker: TBA
+    Trainee Speaker: Parham Kazemi
 
 - ### March 20th, 2025, Thursday
 
