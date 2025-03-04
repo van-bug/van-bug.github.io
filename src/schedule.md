@@ -58,7 +58,7 @@
 
     Trainee Speaker: Parham Kazemi
 
-- ### March 20th, 2025, Thursday
+- ### March 13th, 2025, Thursday
 
     :material-clock: 11:00am - 12:30pm PT
 
@@ -66,8 +66,8 @@
 
     :material-video: Connection Details TBA
 
-    Featured Speaker: TBA
+    Featured Speaker: Dr. Fereydoun Hormozdiari
 
-    Trainee Speaker: TBA
+    Trainee Speaker: Chunqing (Tony) Liang
 
 ///
