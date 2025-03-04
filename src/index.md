@@ -11,6 +11,6 @@ Visit our sister groups for bioinformatics events in Montreal ([MonBUG](https://
 ## VanBUG Monthly Event
 
 {%
-   include-markdown "./archive/2025/2025-02-20.md"
-   start="# Feb - Rob Patro"
+   include-markdown "./archive/2025/2025-03-13.md"
+   start="# Mar - Fereydoun Hormozdiari"
 %}
