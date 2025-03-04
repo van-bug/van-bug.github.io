@@ -70,7 +70,7 @@
 
     Trainee Speaker: Chunqing (Tony) Liang
 
-- ### May 11th, 2025, Friday
+- ### May 9th, 2025, Friday
 
     :material-clock: 5:00pm - 9:00pm PT
 
