@@ -72,7 +72,7 @@
 
 - ### May 9th, 2025, Friday
 
-    :material-clock: 5:00pm - 9:00pm PT
+    :material-clock: 5:00pm - 8:00pm PT
 
     :material-map-marker: Langara College, T-Building Gallery ([170 West 49th Avenue, Vancouver](https://goo.gl/maps/GEVZkaKNvhAipUqF7))
 
