@@ -58,7 +58,7 @@
 
     Trainee Speaker: Parham Kazemi
 
-- ### March 20th, 2025, Thursday
+- ### March 13th, 2025, Thursday
 
     :material-clock: 11:00am - 12:30pm PT
 
@@ -66,8 +66,16 @@
 
     :material-video: Connection Details TBA
 
-    Featured Speaker: TBA
+    Featured Speaker: Dr. Fereydoun Hormozdiari
 
-    Trainee Speaker: TBA
+    Trainee Speaker: Chunqing (Tony) Liang
+
+- ### May 9th, 2025, Friday
+
+    :material-clock: 5:00pm - 8:00pm PT
+
+    :material-map-marker: Langara College, T-Building Gallery ([170 West 49th Avenue, Vancouver](https://goo.gl/maps/GEVZkaKNvhAipUqF7))
+
+    VanBUG Graphical Abstract Contest 2025
 
 ///
