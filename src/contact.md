@@ -2,7 +2,7 @@
 
 ## **Seminar Locations:**
 
-Regular seminars are held remotely, remote connection details will be provded to registrants shortly before each talk.
+Regular seminars are held in person at the Gordon and Leslie Diamond Health Care Centre ([2775 Laurel St, Vancouver, BC V5Z 1M9](https://maps.app.goo.gl/bvXxcRMzUaC2cQkG7)), 1020 Lecture Theatre.
 
 ## **Email:**
 
