@@ -1,81 +1,37 @@
 # Schedule
 
-## Fall 2024
+## Fall 2025
 
 /// html | div[class="timeline"]
 
-- ### [Oct 18th, 2024, Friday](./archive/2024/2024-10-18.md)
+- ### [Sep 18th, 2025, Thursday](./archive/2025/2025-09-18.md)
 
-    :material-clock: 4:00pm - 8:00pm PT
+    :material-clock: TBA
 
-    :material-map-marker: [Study Lounge #224, Library at Langara College (170 West 49th Avenue, Vancouver)](https://langara.ca/campus-facilities/campus-maps/pdf/library.pdf)
+    :material-map-marker: **Location:** Gordon and Leslie Diamond Health Care Centre ([2775 Laurel St, Vancouver, BC V5Z 1M9](https://maps.app.goo.gl/bvXxcRMzUaC2cQkG7)), 1020 Lecture Theatre
 
-    **Bioinformatics Career Night**
+    Featured Speaker: TBA
 
-    Keynote Speaker: Dr. Kayla King
+    Trainee Speaker: TBA
 
-    Career Speakers: Anmol Singh, Dr. Venus Lau, and Dr. Shaun Jackman
+- ### Oct 16th, 2025, Thursday
 
-- ### Nov 21st, 2024, Thursday
+    :material-clock: TBA
 
-    :material-clock: 11:00am - 12:30pm PT
+    :material-map-marker: **Location:** Gordon and Leslie Diamond Health Care Centre ([2775 Laurel St, Vancouver, BC V5Z 1M9](https://maps.app.goo.gl/bvXxcRMzUaC2cQkG7)), 1020 Lecture Theatre
 
-    :material-map-marker: Remote
+    Featured Speaker: TBA
 
-    :material-video: Connection Details TBA
+    Trainee Speaker: TBA
 
-    Featured Speaker: Dr. Can Alkan
+- ### Nov 20th, 2025, Thursday
 
-    Trainee Speaker: Madeline Iseminger
+    :material-clock: TBA
 
-///
+    :material-map-marker: **Location:** Gordon and Leslie Diamond Health Care Centre ([2775 Laurel St, Vancouver, BC V5Z 1M9](https://maps.app.goo.gl/bvXxcRMzUaC2cQkG7)), 1020 Lecture Theatre
 
-## Winter 2025
+    Featured Speaker: TBA
 
-/// html | div[class="timeline"]
-
-- ### Jan 16th, 2025, Thursday
-
-    :material-clock: 11:00am - 12:30pm PT
-
-    :material-map-marker: Remote
-
-    :material-video: Connection Details TBA
-
-    Featured Speaker: Dr. Graeme Koelwyn
-
-    Trainee Speaker: Rituparna Banerjee
-
-- ### Feb 20th, 2025, Thursday
-
-    :material-clock: 11:00am - 12:30pm PT
-
-    :material-map-marker: Remote
-
-    :material-video: Connection Details TBA
-
-    Featured Speaker: Dr. Rob Patro
-
-    Trainee Speaker: Parham Kazemi
-
-- ### March 13th, 2025, Thursday
-
-    :material-clock: 11:00am - 12:30pm PT
-
-    :material-map-marker: Remote
-
-    :material-video: Connection Details TBA
-
-    Featured Speaker: Dr. Fereydoun Hormozdiari
-
-    Trainee Speaker: Chunqing (Tony) Liang
-
-- ### May 9th, 2025, Friday
-
-    :material-clock: 5:00pm - 8:00pm PT
-
-    :material-map-marker: Langara College, T-Building Gallery ([170 West 49th Avenue, Vancouver](https://goo.gl/maps/GEVZkaKNvhAipUqF7))
-
-    VanBUG Graphical Abstract Contest 2025
+    Trainee Speaker: TBA
 
 ///
