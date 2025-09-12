@@ -12,5 +12,5 @@ Visit our sister groups for bioinformatics events in Montreal ([MonBUG](https://
 
 {%
    include-markdown "./archive/2025/2025-09-18.md"
-   start="# Sep - TBA"
+   start="# Sep - Ewan Gibb"
 %}
