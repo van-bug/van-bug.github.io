@@ -34,14 +34,5 @@
 
     Trainee Speaker: TBA
 
-- ### Dec 11th, 2025, Thursday
-
-    :material-clock: 6:00pm - 8:00pm
-
-    :material-map-marker: **Location:** Gordon and Leslie Diamond Health Care Centre ([2775 Laurel St, Vancouver, BC V5Z 1M9](https://maps.app.goo.gl/bvXxcRMzUaC2cQkG7)), 1020 Lecture Theatre
-
-    Featured Speaker: TBA
-
-    Trainee Speaker: TBA
 
 ///
