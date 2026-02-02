@@ -41,7 +41,7 @@
 
 /// html | div[class="timeline"]
 
-- ### [Jan 15th, 2026, Thursday]
+- ### Jan 15th, 2026, Thursday
 
     :material-clock: 6:00pm - 8:00pm
 
