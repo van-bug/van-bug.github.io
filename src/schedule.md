@@ -45,40 +45,40 @@
 
     :material-clock: 6:00pm - 8:00pm
 
-    :material-map-marker: **Location:** Gordon and Leslie Diamond Health Care Centre ([2775 Laurel St, Vancouver, BC V5Z 1M9](https://maps.app.goo.gl/bvXxcRMzUaC2cQkG7)), 1020 Lecture Theatre
+    :material-map-marker: **Location:** Vancouver General Hospital, Jimmy Pattison Pavilion South ([899 West 12th Ave., Vancouver, BC V5Z 1M9](https://maps.app.goo.gl/pvM16Frig5VjA9e69)), 1891 Lecture Theatre
 
-    Featured Speaker: TBA
+    Featured Speaker: Iman Hajirasouliha
 
-    Trainee Speaker: TBA
+    Trainee Speaker: Mahdi Asmae
 
 - ### Feb 19th, 2026, Thursday
 
     :material-clock: 6:00pm - 8:00pm
 
-    :material-map-marker: **Location:** Gordon and Leslie Diamond Health Care Centre ([2775 Laurel St, Vancouver, BC V5Z 1M9](https://maps.app.goo.gl/bvXxcRMzUaC2cQkG7)), 1020 Lecture Theatre
+    :material-map-marker: **Location:** Vancouver General Hospital, Jimmy Pattison Pavilion South ([899 West 12th Ave., Vancouver, BC V5Z 1M9](https://maps.app.goo.gl/pvM16Frig5VjA9e69)), 1891 Lecture Theatre
 
-    Featured Speaker: TBA
+    Featured Speaker: Anne Condon
 
-    Trainee Speaker: TBA
+    Trainee Speaker: Maxwell Douglas
 
 - ### Mar 19th, 2026, Thursday
 
     :material-clock: 6:00pm - 8:00pm
 
-    :material-map-marker: **Location:** Gordon and Leslie Diamond Health Care Centre ([2775 Laurel St, Vancouver, BC V5Z 1M9](https://maps.app.goo.gl/bvXxcRMzUaC2cQkG7)), 1020 Lecture Theatre
+    :material-map-marker: **Location:** Vancouver General Hospital, Jimmy Pattison Pavilion North ([899 West 12th Ave., Vancouver, BC V5Z 1M9](https://maps.app.goo.gl/pvM16Frig5VjA9e69)), 141 TF
 
-    Featured Speaker: TBA
+    Featured Speaker: Emilia Lim
 
-    Trainee Speaker: TBA
+    Trainee Speaker: Asli Munzur
 
 - ### Apr 30th, 2026, Thursday
 
     :material-clock: 6:00pm - 8:00pm
 
-    :material-map-marker: **Location:** Gordon and Leslie Diamond Health Care Centre ([2775 Laurel St, Vancouver, BC V5Z 1M9](https://maps.app.goo.gl/bvXxcRMzUaC2cQkG7)), 1020 Lecture Theatre
+    :material-map-marker: **Location:** Vancouver General Hospital, Jimmy Pattison Pavilion North ([899 West 12th Ave., Vancouver, BC V5Z 1M9](https://maps.app.goo.gl/pvM16Frig5VjA9e69)), 141 TF
 
-    Featured Speaker: TBA
+    Featured Speaker: Dave Clark
 
-    Trainee Speaker: TBA
+    Trainee Speaker: Nairuz Elazzabi
 
 ///

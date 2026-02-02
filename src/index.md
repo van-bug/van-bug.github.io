@@ -11,6 +11,6 @@ Visit our sister groups for bioinformatics events in Montreal ([MonBUG](https://
 ## VanBUG Monthly Event
 
 {%
-   include-markdown "./archive/2025/2025-09-18.md"
-   start="# Sep - Ewan Gibb"
+   include-markdown "./archive/2026/2026-02-19.md"
+   start="# Feb - Anne Condon"
 %}
