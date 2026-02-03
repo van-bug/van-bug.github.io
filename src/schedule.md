@@ -41,7 +41,7 @@
 
 /// html | div[class="timeline"]
 
-- ### [Jan 15th, 2026, Thursday]
+- ### Jan 15th, 2026, Thursday
 
     :material-clock: 6:00pm - 8:00pm
 
@@ -51,7 +51,7 @@
 
     Trainee Speaker: Mahdi Asmae
 
-- ### Feb 19th, 2026, Thursday
+- ### [Feb 19th, 2026, Thursday](./archive/2026/2026-02-19.md)
 
     :material-clock: 6:00pm - 8:00pm
 
