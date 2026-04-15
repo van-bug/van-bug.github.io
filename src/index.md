@@ -11,6 +11,6 @@ Visit our sister groups for bioinformatics events in Montreal ([MonBUG](https://
 ## VanBUG Monthly Event
 
 {%
-   include-markdown "./archive/2026/2026-02-19.md"
-   start="# Feb - Anne Condon"
+   include-markdown "./archive/2026/2026-04-30.md"
+   start="# April - David C. Clarke"
 %}
