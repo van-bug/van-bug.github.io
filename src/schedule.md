@@ -77,8 +77,8 @@
 
     :material-map-marker: **Location:** Vancouver General Hospital, Jimmy Pattison Pavilion North ([899 West 12th Ave., Vancouver, BC V5Z 1M9](https://maps.app.goo.gl/pvM16Frig5VjA9e69)), 141 TF
 
-    Featured Speaker: Dave Clark
+    Featured Speaker: David C. Clarke
 
-    Trainee Speaker: Nairuz Elazzabi
+    Trainee Speaker: Neera Patadia
 
 ///
