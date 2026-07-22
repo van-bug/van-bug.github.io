@@ -8,10 +8,11 @@ VanBUG welcomes bioinformatics-related companies to present short (maximum 10 mi
 
 ## Current Sponsors
 
-VanBUG is supported by the following organizations:
+VanBUG is an Affiliate Partner of the Canadian Bioinformatics Hub and is supported by the following organizations:
 
 /// html | div[class="image-gallery"]
 
+- [![Canadian Bioinformatics Hub](./images/CBH-Logo-EN-Red.png)](http://www.bioinformatics.ca)
 - [![Bioinformatics Graduate Program at UBC and SFU](./images/bcbioinformaticsgrad.logo.png)](https://bcbioinformaticsgrad.ca)
 - [![UBC Michael Smith Laboratories](./images/michaelsmith.logo.png)](https://www.msl.ubc.ca/)
 - [![SFU Big Data Hub](./images/bigdatahub.logo.jpg)](https://www.sfu.ca/big-data.html)
@@ -40,7 +41,6 @@ We have previously been provided generous support from:
 - [![AbCellera Biologics Inc](./images/abcellera.logo.png)](https://www.abcellera.com)
 - [![BC Cancer Research Centre](./images/bccancer.logo.png)](http://www.bccrc.ca)
 - [![BCCDC](./images/bccdc.logo.png)](http://www.bccdc.ca)
-- [![Canadian Bioinformatics Workshops](./images/cbw.logo.svg)](http://www.bioinformatics.ca)
 - [![ECOSCOPE](./images/ecoscope.logo.png)](https://ecoscope.microbiology.ubc.ca)
 - [![MITACS](./images/mitacs.logo.jpg)](https://www.mitacs.ca/en)
 - [![Pacific Institute for the Mathematical Sciences](./images/pims.logo.jpg)](http://www.pims.math.ca)

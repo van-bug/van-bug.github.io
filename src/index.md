@@ -1,6 +1,6 @@
 # **Vancouver Bioinformatics User Group**
 
-VanBUG (Vancouver Bioinformatics Users Group) is an association of researchers, other professionals and students in the B.C. Lower Mainland who have an interest in the field of bioinformatics, computational biology, and data sciences. VanBUG meets every month from September through April. Research presentations by bioinformatics leaders, students and industry representatives are followed by networking over pizza and refreshments
+VanBUG (Vancouver Bioinformatics User Group) is an association of researchers, other professionals and students in the B.C. Lower Mainland who have an interest in the field of bioinformatics, computational biology, and data sciences. VanBUG meets every month from September through April. Research presentations by bioinformatics leaders, students and industry representatives are followed by networking over pizza and refreshments
 
 [Regular in-person monthly meetings](./schedule) will be held monthly on Thursdays from **6:00pm to 8:00pm** and are free and open to all. Please refer to the [Schedule](./schedule) page or [subscribe to our Calendar](https://calendar.google.com/calendar/u/1?cid=dmFuYmlvaW5mb0BnbWFpbC5jb20) for specific details regarding speaker location and room information.
 
@@ -10,7 +10,4 @@ Visit our sister groups for bioinformatics events in Montreal ([MonBUG](https://
 
 ## VanBUG Monthly Event
 
-{%
-   include-markdown "./archive/2026/2026-04-30.md"
-   start="# April - David C. Clarke"
-%}
+Stay Tuned for Announcements!
