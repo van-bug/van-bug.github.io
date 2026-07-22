@@ -10,4 +10,4 @@ Visit our sister groups for bioinformatics events in Montreal ([MonBUG](https://
 
 ## VanBUG Monthly Event
 
-Stay Tuned for Announcements!
+Stay tuned for announcements!
