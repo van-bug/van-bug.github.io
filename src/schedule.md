@@ -1,84 +1,49 @@
 # Schedule
 
-## Fall 2025
+## Fall 2026
 
 /// html | div[class="timeline"]
 
-- ### [Sep 18th, 2025, Thursday](./archive/2025/2025-09-18.md)
-
-    :material-clock: 6:00pm - 8:00pm
-
-    :material-map-marker: **Location:** Gordon and Leslie Diamond Health Care Centre ([2775 Laurel St, Vancouver, BC V5Z 1M9](https://maps.app.goo.gl/bvXxcRMzUaC2cQkG7)), 1020 Lecture Theatre
-
-    Featured Speaker: Dr. Ewan Gibb
-
-    Trainee Speaker: Giuli Sucar
-
-- ### Oct 16th, 2025, Thursday
-
-    :material-clock: 6:00pm - 8:00pm
-
-    :material-map-marker: **Location:** Gordon and Leslie Diamond Health Care Centre ([2775 Laurel St, Vancouver, BC V5Z 1M9](https://maps.app.goo.gl/bvXxcRMzUaC2cQkG7)), 1020 Lecture Theatre
-
-    Featured Speaker: TBA
-
-    Trainee Speaker: TBA
-
-- ### Nov 20th, 2025, Thursday
-
-    :material-clock: 6:00pm - 8:00pm
-
-    :material-map-marker: **Location:** Gordon and Leslie Diamond Health Care Centre ([2775 Laurel St, Vancouver, BC V5Z 1M9](https://maps.app.goo.gl/bvXxcRMzUaC2cQkG7)), 1020 Lecture Theatre
-
-    Featured Speaker: TBA
-
-    Trainee Speaker: TBA
-
-
-///
-
-## Spring 2026
-
-/// html | div[class="timeline"]
-
-- ### Jan 15th, 2026, Thursday
+- ### [Sep 17th, 2026, Thursday](./archive/2026/2026-09-17.md)
 
     :material-clock: 6:00pm - 8:00pm
 
     :material-map-marker: **Location:** Vancouver General Hospital, Jimmy Pattison Pavilion South ([899 West 12th Ave., Vancouver, BC V5Z 1M9](https://maps.app.goo.gl/pvM16Frig5VjA9e69)), 1891 Lecture Theatre
 
-    Featured Speaker: Iman Hajirasouliha
+    Featured Speaker: Dr. Muhammad “Tuan” Amith
 
-    Trainee Speaker: Mahdi Asmae
+    Trainee Speaker: Kristi Fourie
 
-- ### [Feb 19th, 2026, Thursday](./archive/2026/2026-02-19.md)
-
-    :material-clock: 6:00pm - 8:00pm
-
-    :material-map-marker: **Location:** Vancouver General Hospital, Jimmy Pattison Pavilion South ([899 West 12th Ave., Vancouver, BC V5Z 1M9](https://maps.app.goo.gl/pvM16Frig5VjA9e69)), 1891 Lecture Theatre
-
-    Featured Speaker: Anne Condon
-
-    Trainee Speaker: Maxwell Douglas
-
-- ### Mar 19th, 2026, Thursday
+- ### [Oct 22nd, 2026, Thursday](./archive/2026/2026-10-22.md)
 
     :material-clock: 6:00pm - 8:00pm
 
-    :material-map-marker: **Location:** Vancouver General Hospital, Jimmy Pattison Pavilion North ([899 West 12th Ave., Vancouver, BC V5Z 1M9](https://maps.app.goo.gl/pvM16Frig5VjA9e69)), 141 TF
+    :material-map-marker: **Location:** Gordon and Leslie Diamond Health Care Centre ([2775 Laurel St, Vancouver, BC V5Z 1M9](https://maps.app.goo.gl/bvXxcRMzUaC2cQkG7)), 1020 Lecture Theatre
 
-    Featured Speaker: Emilia Lim
+    Featured Speaker: Dr. Emilia Lim
 
     Trainee Speaker: Asli Munzur
 
-- ### Apr 30th, 2026, Thursday
+- ### [Nov 19th, 2026, Thursday](./archive/2026/2026-11-19.md)
 
     :material-clock: 6:00pm - 8:00pm
 
-    :material-map-marker: **Location:** Vancouver General Hospital, Jimmy Pattison Pavilion North ([899 West 12th Ave., Vancouver, BC V5Z 1M9](https://maps.app.goo.gl/pvM16Frig5VjA9e69)), 141 TF
+    :material-map-marker: **Location:** Vancouver General Hospital, Jimmy Pattison Pavilion South ([899 West 12th Ave., Vancouver, BC V5Z 1M9](https://maps.app.goo.gl/pvM16Frig5VjA9e69)), 1891 Lecture Theatre
 
-    Featured Speaker: David C. Clarke
+    Featured Speaker: Dr. Maria Tokuyama
 
-    Trainee Speaker: Neera Patadia
+    Trainee Speaker: Moritz Aubermann
+
+- ### Dec 10th, 2026, Thursday
+
+    :material-clock: TBD
+
+    :material-map-marker: TBD
+
+    Special Event
+
+///
+
+
 
 ///
