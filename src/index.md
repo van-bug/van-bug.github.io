@@ -10,4 +10,7 @@ Visit our sister groups for bioinformatics events in Montreal ([MonBUG](https://
 
 ## VanBUG Monthly Event
 
-Stay tuned for announcements!
+{%
+   include-markdown "./archive/2026/2026-09-17.md"
+   start="# Sep - Muhammad “Tuan” Amith"
+%}
