@@ -1,6 +1,6 @@
 # Sponsorship
 
-VanBUG is possible through the work of volunteers, however we welcome support in order to bring in outside speakers and host other significant events.
+VanBUG is a non-profit that is possible through the work of volunteers, however we welcome support in order to bring in outside speakers and host other significant events.
 
 If you are interested in sponsoring our events (a single event, a term, or a year), please [contact us](https://www.vanbug.org/contact/).
 
