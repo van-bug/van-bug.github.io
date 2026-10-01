@@ -11,6 +11,6 @@ Visit our sister groups for bioinformatics events in Montreal ([MonBUG](https://
 ## VanBUG Monthly Event
 
 {%
-   include-markdown "./archive/2026/2026-09-17.md"
-   start="# Sep - Muhammad “Tuan” Amith"
+   include-markdown "./archive/2026/2026-10-22.md"
+   start="# Oct - Emilia Lim"
 %}
