@@ -22,10 +22,8 @@
   --md-primary-fg-color: var(--vb-green);
   --md-primary-fg-color--light: #a3c2b8;
   --md-primary-fg-color--dark: #141f1b;
-  --md-primary-bg-color: #fff;
   --md-accent-fg-color--transparent: rgb(61 92 82 / 10%);
   --md-default-fg-color--lighter: #8d9994;
-  --md-footer-fg-color: #fff;
   --md-footer-fg-color--light: rgb(255 255 255 / 72%);
   --md-footer-fg-color--lighter: rgb(255 255 255 / 45%);
   color-scheme: light;

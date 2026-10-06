@@ -2,7 +2,6 @@
   border-top: 1px solid var(--vb-rule);
   list-style: none;
   margin: 1.6rem 0 0;
-  padding: 0;
 }
 
 .md-typeset .timeline > ul > li {
@@ -15,10 +14,7 @@
 
 .md-typeset .timeline > ul > li.vb-past { opacity: .45; }
 
-.md-typeset .timeline h3 {
-  font-size: 1.05em;
-  margin: 0 0 .3em;
-}
+.md-typeset .timeline h3 { margin: 0 0 .3em; }
 
 .md-typeset .timeline h3 a {
   color: inherit;
@@ -26,7 +22,6 @@
 }
 
 .vb-date {
-  color: var(--vb-text);
   display: grid;
   justify-items: center;
   line-height: 1.2;
@@ -115,7 +110,6 @@
   background: var(--vb-surface);
   border: 1px solid var(--vb-rule);
   border-radius: var(--vb-radius);
-  color: var(--vb-text);
   display: inline-flex;
   font: 600 .72rem/1 var(--vb-font);
   gap: .35rem;
@@ -147,13 +141,11 @@
   border: 1px solid var(--vb-rule);
   border-radius: var(--vb-radius);
   box-shadow: 0 24px 48px -24px rgb(21 29 25 / 25%);
-  left: 0;
   list-style: none;
   margin: .3rem 0 0;
   min-width: 12rem;
   padding: .3rem;
   position: absolute;
-  top: 100%;
   z-index: 2;
 }
 
