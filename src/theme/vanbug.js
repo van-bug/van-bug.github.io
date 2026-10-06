@@ -4,6 +4,19 @@
     for (const a of SCHEME) document.documentElement.setAttribute(a, document.body.getAttribute(a));
   }).observe(document.body, { attributes: true, attributeFilter: SCHEME });
 
+  const today = new Date();
+  today.setHours(0, 0, 0, 0);
+  const sections = document.querySelectorAll(".md-nav--primary > .md-nav__list > .md-nav__item");
+  document.querySelectorAll(".vb-nav__link").forEach((tab, i) => {
+    let latest = 0;
+    for (const link of sections[i]?.querySelectorAll("a") ?? []) {
+      const date = link.pathname.match(/(\d{4})-(\d\d)-(\d\d)\/$/);
+      if (!date) continue;
+      const when = new Date(date[1], date[2] - 1, date[3]);
+      if (when <= today && when > latest) { latest = when; tab.href = link.href; }
+    }
+  });
+
   const article = document.querySelector("article.md-typeset");
   if (!article) return;
 
@@ -23,8 +36,6 @@
     if (label && label.textContent.trim() === repeat.textContent.trim()) repeat.remove();
   }
 
-  const today = new Date();
-  today.setHours(0, 0, 0, 0);
   for (const heading of article.querySelectorAll(".timeline li > h3")) {
     const link = heading.querySelector("a:not(.headerlink)");
     const text = (link ? link.textContent : heading.firstChild?.textContent) || "";
