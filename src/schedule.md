@@ -1,5 +1,16 @@
 # Schedule
 
+As a service to the community, local VanBUG and other bioinformatics events are posted to the [Calendar](https://calendar.google.com/calendar/embed?src=vanbioinfo%40gmail.com&ctz=America%2FVancouver). Regular in-person monthly meetings will be held monthly on Thursdays from 6:00pm to 8:00pm and are free and open to all.
+
+<details class="vb-calendar" markdown>
+<summary>Subscribe to Calendar</summary>
+
+- [![](images/google-logo.svg) Google Calendar](https://calendar.google.com/calendar/u/0?cid=dmFuYmlvaW5mb0BnbWFpbC5jb20)
+- [![](images/apple-logo.svg) Apple Calendar](webcal://calendar.google.com/calendar/ical/vanbioinfo%40gmail.com/public/basic.ics)
+- [![](images/microsoft-outlook.svg) Outlook](https://outlook.live.com/calendar/0/addfromweb?url=https%3A%2F%2Fcalendar.google.com%2Fcalendar%2Fical%2Fvanbioinfo%2540gmail.com%2Fpublic%2Fbasic.ics&name=VanBUG)
+
+</details>
+
 ## Fall 2026
 
 /// html | div[class="timeline"]
@@ -41,9 +52,5 @@
     :material-map-marker: TBD
 
     Special Event
-
-///
-
-
 
 ///
