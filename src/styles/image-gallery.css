@@ -8,6 +8,9 @@
   margin: 1.8rem 0 0;
 }
 
+.md-typeset .image-gallery { transition: opacity .3s; }
+.js .md-typeset .image-gallery:not(.vb-ready) { opacity: 0; }
+
 .md-typeset .image-gallery > ul > li { margin: 0; min-width: 0; }
 .md-typeset .image-gallery li a { display: block; }
 

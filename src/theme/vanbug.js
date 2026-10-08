@@ -102,9 +102,12 @@
     const tallest = parseFloat(getComputedStyle(img).maxHeight) || Infinity;
     img.style.width = `${Math.round(Math.min(Math.sqrt(LOGO_AREA * ratio) * weight, tallest * ratio))}px`;
   };
-  for (const img of article.querySelectorAll(".image-gallery img")) {
-    if (img.complete && img.naturalWidth) sizeLogo(img);
-    else img.addEventListener("load", () => sizeLogo(img), { once: true });
+  for (const gallery of article.querySelectorAll(".image-gallery")) {
+    const settle = (img) => img.complete ? sizeLogo(img) : new Promise((done) => {
+      img.onload = () => done(sizeLogo(img));
+      img.onerror = done;
+    });
+    Promise.all([...gallery.querySelectorAll("img")].map(settle)).then(() => gallery.classList.add("vb-ready"));
   }
 
   const FOLDS = ["bio", "abstract", "talk summary"];
