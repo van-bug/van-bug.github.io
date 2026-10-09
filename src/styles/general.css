@@ -748,7 +748,7 @@ html:not([data-md-color-scheme]) .md-header__option label[for="__palette_2"] { d
 
 .md-typeset .vb-fold--open .vb-fold__body {
   opacity: 1;
-  transition: opacity .35s .1s;
+  transition: none;
 }
 
 .md-typeset .vb-fold__body > :first-child { margin-top: 1.4rem; }
