@@ -1,0 +1,141 @@
+{% extends "base.html" %}
+
+{% block fonts %}
+  <link rel="preload" href="{{ 'styles/InstrumentSans.woff2' | url }}" as="font" type="font/woff2" crossorigin>
+{% endblock %}
+
+{% block extrahead %}
+  <script>
+    document.documentElement.classList.replace("no-js", "js");
+    var palette = __md_get("__palette");
+    if (palette && palette.color) for (var key in palette.color) document.documentElement.setAttribute("data-md-color-" + key, palette.color[key]);
+  </script>
+{% endblock %}
+
+{% block header %}
+  <header class="md-header vb-header{% if page and page.url.startswith('archive/') %} vb-header--archive{% endif %}" data-md-component="header">
+    <nav class="md-header__inner md-grid vb-header__inner" aria-label="{{ lang.t('header.title') }}">
+      <a href="{{ config.extra.homepage | d(nav.homepage.url, true) | url }}" class="vb-brand" aria-label="{{ config.site_name }}">
+        <img class="vb-brand__mark" src="{{ config.theme.logo | url }}" alt="">
+        <span class="vb-brand__name">{{ config.site_name }}</span>
+      </a>
+      <ul class="vb-nav">
+        {% for nav_item in nav %}
+          {% set target = namespace(item=nav_item) %}
+          {% for _ in range(3) %}{% if target.item.children %}{% set target.item = target.item.children | first %}{% endif %}{% endfor %}
+          <li>
+            <a class="vb-nav__link{% if nav_item.active %} vb-nav__link--active{% endif %}" href="{{ target.item.url | url }}"{% if nav_item.active %} aria-current="true"{% endif %}>{{ nav_item.title }}</a>
+          </li>
+        {% endfor %}
+      </ul>
+      {% if "search" in config.plugins %}
+        <label class="md-header__button md-icon" for="__search" aria-label="{{ lang.t('search.placeholder') }}">
+          {% include ".icons/material/magnify.svg" %}
+        </label>
+        {% include "partials/search.html" %}
+      {% endif %}
+      {% if not config.theme.palette is mapping %}
+        <form class="md-header__option" data-md-component="palette">
+          {% for option in config.theme.palette %}
+            <input class="md-option" data-md-color-media="{{ option.media }}" data-md-color-scheme="{{ option.scheme | d('default', true) | replace(' ', '-') }}" data-md-color-primary="{{ option.primary | replace(' ', '-') }}" data-md-color-accent="{{ option.accent | replace(' ', '-') }}" aria-label="{{ option.toggle.name }}" type="radio" name="__palette" id="__palette_{{ loop.index }}">
+            <label class="md-header__button md-icon" title="{{ option.toggle.name }}" for="__palette_{{ loop.index0 or loop.length }}" hidden>
+              {% include ".icons/" ~ option.toggle.icon ~ ".svg" %}
+            </label>
+          {% endfor %}
+        </form>
+      {% endif %}
+      <label class="md-header__button md-icon vb-header__menu" for="__drawer" aria-label="{{ lang.t('nav.title') }}">
+        {% include ".icons/material/menu.svg" %}
+      </label>
+    </nav>
+  </header>
+{% endblock %}
+
+{% block hero %}
+  {% if page and page.is_homepage and "</h1>" in page.content %}
+    <section class="vb-hero">
+      <div class="vb-hero__inner md-grid">
+        <div class="vb-hero__figure"><img class="vb-hero__mark" src="{{ config.theme.logo | url }}" alt=""></div>
+        {{ page.content.split("</h1>", 1) | first }}</h1>
+        <p class="vb-hero__lede">Researchers, students and industry people from across the Lower Mainland, sharing work over an evening of talks and networking.</p>
+      </div>
+    </section>
+  {% endif %}
+{% endblock %}
+
+{% block site_nav %}
+  {% if nav %}
+    <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation"{% if not (page and page.url.startswith("archive/")) %} hidden{% endif %}>
+      <div class="md-sidebar__scrollwrap">
+        <div class="md-sidebar__inner">
+          {% include "partials/nav.html" %}
+        </div>
+      </div>
+    </div>
+  {% endif %}
+{% endblock %}
+
+{% block content %}
+  {% if page and page.is_homepage and "</h1>" in page.content %}
+    <section class="vb-event">{{ page.content.split("</h1>", 1) | last }}</section>
+  {% else %}
+    <div class="vb-page vb-page--{{ (page.url if page else '').split('/') | first or 'home' }}">
+      {{ super() }}
+    </div>
+  {% endif %}
+{% endblock %}
+
+{% block footer %}
+  {% set in_archive = page and page.url.startswith("archive/") %}
+  {% set prev = page.previous_page if in_archive and page.previous_page and page.previous_page.url.startswith("archive/") %}
+  {% set next = page.next_page if in_archive and page.next_page and page.next_page.url.startswith("archive/") %}
+  <footer class="md-footer vb-footer">
+    {% if prev or next %}
+      <nav class="md-footer__inner md-grid" aria-label="{{ lang.t('footer.title') }}">
+        {% if prev %}
+          <a href="{{ prev.url | url }}" class="md-footer__link md-footer__link--prev" aria-label="{{ lang.t('footer.previous') }}: {{ prev.title | e }}" rel="prev">
+            <div class="md-footer__button md-icon">
+              {% include ".icons/material/arrow-left.svg" %}
+            </div>
+            <div class="md-footer__title">
+              <div class="md-ellipsis">
+                <span class="md-footer__direction">{{ lang.t('footer.previous') }}</span>
+                {{ prev.title }}
+              </div>
+            </div>
+          </a>
+        {% endif %}
+        {% if next %}
+          <a href="{{ next.url | url }}" class="md-footer__link md-footer__link--next" aria-label="{{ lang.t('footer.next') }}: {{ next.title | e }}" rel="next">
+            <div class="md-footer__title">
+              <div class="md-ellipsis">
+                <span class="md-footer__direction">{{ lang.t('footer.next') }}</span>
+                {{ next.title }}
+              </div>
+            </div>
+            <div class="md-footer__button md-icon">
+              {% include ".icons/material/arrow-right.svg" %}
+            </div>
+          </a>
+        {% endif %}
+      </nav>
+    {% endif %}
+    <div class="vb-footer__inner md-grid">
+      <a class="vb-brand" href="{{ config.extra.homepage | d(nav.homepage.url, true) | url }}">
+        <img class="vb-brand__mark vb-brand__mark--large" src="{{ config.theme.logo | url }}" alt="">
+        <span class="vb-brand__text">
+          <span class="vb-brand__name">{{ config.site_name }}</span>
+          <span class="vb-brand__full">Vancouver Bioinformatics User Group</span>
+        </span>
+      </a>
+      {% if config.extra.social %}
+        {% include "partials/social.html" %}
+      {% endif %}
+    </div>
+  </footer>
+{% endblock %}
+
+{% block scripts %}
+  <script src="{{ 'vanbug.js' | url }}"></script>
+  {{ super() }}
+{% endblock %}
