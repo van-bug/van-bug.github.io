@@ -5,6 +5,9 @@
 {% endblock %}
 
 {% block extrahead %}
+  {% for name in ["timeline", "palette", "general", "image-gallery"] %}
+    <link rel="stylesheet" href="{{ ('styles/' ~ name ~ '.css') | url }}?v={{ config.extra.revision[:8] }}">
+  {% endfor %}
   <script>
     document.documentElement.classList.replace("no-js", "js");
     var palette = __md_get("__palette");
@@ -136,6 +139,6 @@
 {% endblock %}
 
 {% block scripts %}
-  <script src="{{ 'vanbug.js' | url }}"></script>
+  <script src="{{ 'vanbug.js' | url }}?v={{ config.extra.revision[:8] }}"></script>
   {{ super() }}
 {% endblock %}

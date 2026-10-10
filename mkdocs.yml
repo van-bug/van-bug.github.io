@@ -44,11 +44,6 @@ markdown_extensions:
 extra_javascript:
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
   - https://platform.twitter.com/widgets.js
-extra_css:
-- styles/timeline.css
-- styles/palette.css
-- styles/general.css
-- styles/image-gallery.css
 plugins:
   - awesome-pages
   - search
@@ -207,6 +202,7 @@ nav:
   - About Us: about.md
   - Contact: contact.md
 extra:
+  revision: !ENV [GITHUB_SHA, local]
   social:
     - icon: simple/x
       name: X
