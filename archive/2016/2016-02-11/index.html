@@ -28,16 +28,8 @@
     
     
     
-      
-        
-        
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
-        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
-      
-    
-    
-      <link rel="stylesheet" href="../../../styles/image-list.css">
+  <link rel="preload" href="../../../styles/InstrumentSans.woff2" as="font" type="font/woff2" crossorigin>
+
     
       <link rel="stylesheet" href="../../../styles/timeline.css">
     
@@ -54,17 +46,27 @@
     
     
     
+  <script>
+    document.documentElement.classList.replace("no-js", "js");
+    var palette = __md_get("__palette");
+    if (palette && palette.color) for (var key in palette.color) document.documentElement.setAttribute("data-md-color-" + key, palette.color[key]);
+  </script>
+
   </head>
   
   
     
     
+      
     
     
     
-    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="None" data-md-color-accent="None">
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="" data-md-color-accent="">
   
     
+    
+      <script>var palette=__md_get("__palette");if(palette&&"object"==typeof palette.color)for(var key of Object.keys(palette.color))document.body.setAttribute("data-md-color-"+key,palette.color[key])</script>
     
     <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
     <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
@@ -82,43 +84,56 @@
     </div>
     
     
+  <header class="md-header vb-header vb-header--archive" data-md-component="header">
+    <nav class="md-header__inner md-grid vb-header__inner" aria-label="Header">
+      <a href="../../.." class="vb-brand" aria-label="VanBUG">
+        <img class="vb-brand__mark" src="../../../images/logo.svg" alt="">
+        <span class="vb-brand__name">VanBUG</span>
+      </a>
+      <ul class="vb-nav">
+        
+          
+          
+          <li>
+            <a class="vb-nav__link" href="../../..">Home</a>
+          </li>
+        
+          
+          
+          <li>
+            <a class="vb-nav__link" href="../../../schedule/">Schedule</a>
+          </li>
+        
+          
+          
+          <li>
+            <a class="vb-nav__link vb-nav__link--active" href="../../2026/2026-02-19/" aria-current="true">Archive</a>
+          </li>
+        
+          
+          
+          <li>
+            <a class="vb-nav__link" href="../../../sponsors/">Sponsors</a>
+          </li>
+        
+          
+          
+          <li>
+            <a class="vb-nav__link" href="../../../about/">About Us</a>
+          </li>
+        
+          
+          
+          <li>
+            <a class="vb-nav__link" href="../../../contact/">Contact</a>
+          </li>
+        
+      </ul>
       
-
-  
-
-<header class="md-header md-header--lifted" data-md-component="header">
-  <nav class="md-header__inner md-grid" aria-label="Header">
-    <a href="../../.." title="VanBUG" class="md-header__button md-logo" aria-label="VanBUG" data-md-component="logo">
-      
-  <img src="../../../images/logo.light.svg" alt="logo">
-
-    </a>
-    <label class="md-header__button md-icon" for="__drawer">
-      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
-    </label>
-    <div class="md-header__title" data-md-component="header-title">
-      <div class="md-header__ellipsis">
-        <div class="md-header__topic">
-          <span class="md-ellipsis">
-            VanBUG
-          </span>
-        </div>
-        <div class="md-header__topic" data-md-component="header-topic">
-          <span class="md-ellipsis">
-            
-              Feb - Adam Phillippy
-            
-          </span>
-        </div>
-      </div>
-    </div>
-    
-    
-    
-      <label class="md-header__button md-icon" for="__search">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
-      </label>
-      <div class="md-search" data-md-component="search" role="dialog">
+        <label class="md-header__button md-icon" for="__search" aria-label="Search">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
   <label class="md-search__overlay" for="__search"></label>
   <div class="md-search__inner" role="search">
     <form class="md-search__form" name="search">
@@ -147,125 +162,52 @@
     </div>
   </div>
 </div>
-    
-    
-  </nav>
-  
-    
       
-<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
-  <div class="md-tabs__inner md-grid">
-    <ul class="md-tabs__list">
       
-        
-  
-  
-
-
-  <li class="md-tabs__item">
-    <a href="../../.." class="md-tabs__link">
-      Home
-    </a>
-  </li>
-
+        <form class="md-header__option" data-md-component="palette">
+          
+            <input class="md-option" data-md-color-media="(prefers-color-scheme: light)" data-md-color-scheme="default" data-md-color-primary="" data-md-color-accent="" aria-label="Switch to dark mode" type="radio" name="__palette" id="__palette_1">
+            <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_2" hidden>
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M8 10.5a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5zM8 12a4 4 0 1 0 0-8 4 4 0 0 0 0 8zM8 0a.75.75 0 0 1 .75.75v1.5a.75.75 0 0 1-1.5 0V.75A.75.75 0 0 1 8 0zm0 13a.75.75 0 0 1 .75.75v1.5a.75.75 0 0 1-1.5 0v-1.5A.75.75 0 0 1 8 13zM2.343 2.343a.75.75 0 0 1 1.061 0l1.06 1.061a.75.75 0 0 1-1.06 1.06l-1.06-1.06a.75.75 0 0 1 0-1.06zm9.193 9.193a.75.75 0 0 1 1.06 0l1.061 1.06a.75.75 0 0 1-1.06 1.061l-1.061-1.06a.75.75 0 0 1 0-1.061zM16 8a.75.75 0 0 1-.75.75h-1.5a.75.75 0 0 1 0-1.5h1.5A.75.75 0 0 1 16 8zM3 8a.75.75 0 0 1-.75.75H.75a.75.75 0 0 1 0-1.5h1.5A.75.75 0 0 1 3 8zm10.657-5.657a.75.75 0 0 1 0 1.061l-1.061 1.06a.75.75 0 1 1-1.06-1.06l1.06-1.06a.75.75 0 0 1 1.06 0zm-9.193 9.193a.75.75 0 0 1 0 1.06l-1.06 1.061a.75.75 0 1 1-1.061-1.06l1.06-1.061a.75.75 0 0 1 1.061 0z"/></svg>
+            </label>
+          
+            <input class="md-option" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-scheme="slate" data-md-color-primary="" data-md-color-accent="" aria-label="Switch to light mode" type="radio" name="__palette" id="__palette_2">
+            <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_1" hidden>
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M9.598 1.591a.75.75 0 0 1 .785-.175 7 7 0 1 1-8.967 8.967.75.75 0 0 1 .961-.96 5.5 5.5 0 0 0 7.046-7.046.75.75 0 0 1 .175-.786zm1.616 1.945a7 7 0 0 1-7.678 7.678 5.5 5.5 0 1 0 7.678-7.678z"/></svg>
+            </label>
+          
+        </form>
       
-        
-  
-  
+      <label class="md-header__button md-icon vb-header__menu" for="__drawer" aria-label="Navigation">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+      </label>
+    </nav>
+  </header>
 
-
-  <li class="md-tabs__item">
-    <a href="../../../contact/" class="md-tabs__link">
-      Contact
-    </a>
-  </li>
-
-      
-        
-  
-  
-
-
-  <li class="md-tabs__item">
-    <a href="../../../schedule/" class="md-tabs__link">
-      Schedule
-    </a>
-  </li>
-
-      
-        
-  
-  
-    
-  
-
-
-  
-  
-  
-    
-
-  
-  
-  
-    <li class="md-tabs__item">
-      <a href="../../2026/2026-02-19/" class="md-tabs__link md-tabs__link--active">
-        Archive
-      </a>
-    </li>
-  
-
-  
-
-      
-        
-  
-  
-
-
-  
-  
-  
-    <li class="md-tabs__item">
-      <a href="../../../sponsors/" class="md-tabs__link">
-        Sponsors
-      </a>
-    </li>
-  
-
-      
-    </ul>
-  </div>
-</nav>
-    
-  
-</header>
-    
     <div class="md-container" data-md-component="container">
       
+  
+
       
         
       
       <main class="md-main" data-md-component="main">
         <div class="md-main__inner md-grid">
           
-            
-              
-              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
-                <div class="md-sidebar__scrollwrap">
-                  <div class="md-sidebar__inner">
-                    
+  
+    <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation">
+      <div class="md-sidebar__scrollwrap">
+        <div class="md-sidebar__inner">
+          
 
   
 
 
-  
-
-<nav class="md-nav md-nav--primary md-nav--lifted md-nav--integrated" aria-label="Navigation" data-md-level="0">
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navigation" data-md-level="0">
   <label class="md-nav__title" for="__drawer">
     <a href="../../.." title="VanBUG" class="md-nav__button md-logo" aria-label="VanBUG" data-md-component="logo">
       
-  <img src="../../../images/logo.light.svg" alt="logo">
+  <img src="../../../images/logo.svg" alt="logo">
 
     </a>
     VanBUG
@@ -283,21 +225,6 @@
     <li class="md-nav__item">
       <a href="../../.." class="md-nav__link">
         Home
-      </a>
-    </li>
-  
-
-    
-      
-      
-      
-
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../../contact/" class="md-nav__link">
-        Contact
       </a>
     </li>
   
@@ -331,18 +258,70 @@
     <li class="md-nav__item md-nav__item--active md-nav__item--nested">
       
       
-        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_4" type="checkbox" id="__nav_4" checked>
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_3" type="checkbox" id="__nav_3" checked>
       
       
       
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
       
-        <label class="md-nav__link" for="__nav_4">
+      
+        <label class="md-nav__link" for="__nav_3">
           Archive
           <span class="md-nav__icon md-icon"></span>
         </label>
       
       <nav class="md-nav" aria-label="Archive" data-md-level="1">
-        <label class="md-nav__title" for="__nav_4">
+        <label class="md-nav__title" for="__nav_3">
           <span class="md-nav__icon md-icon"></span>
           Archive
         </label>
@@ -357,18 +336,30 @@
     <li class="md-nav__item md-nav__item--nested">
       
       
-        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_4_1" type="checkbox" id="__nav_4_1" >
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_3_1" type="checkbox" id="__nav_3_1" >
       
       
       
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
       
-        <label class="md-nav__link" for="__nav_4_1">
+      
+        <label class="md-nav__link" for="__nav_3_1">
           2026
           <span class="md-nav__icon md-icon"></span>
         </label>
       
       <nav class="md-nav" aria-label="2026" data-md-level="2">
-        <label class="md-nav__title" for="__nav_4_1">
+        <label class="md-nav__title" for="__nav_3_1">
           <span class="md-nav__icon md-icon"></span>
           2026
         </label>
@@ -460,18 +451,30 @@
     <li class="md-nav__item md-nav__item--nested">
       
       
-        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_4_2" type="checkbox" id="__nav_4_2" >
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_3_2" type="checkbox" id="__nav_3_2" >
       
       
       
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
       
-        <label class="md-nav__link" for="__nav_4_2">
+      
+        <label class="md-nav__link" for="__nav_3_2">
           2025
           <span class="md-nav__icon md-icon"></span>
         </label>
       
       <nav class="md-nav" aria-label="2025" data-md-level="2">
-        <label class="md-nav__title" for="__nav_4_2">
+        <label class="md-nav__title" for="__nav_3_2">
           <span class="md-nav__icon md-icon"></span>
           2025
         </label>
@@ -563,18 +566,30 @@
     <li class="md-nav__item md-nav__item--nested">
       
       
-        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_4_3" type="checkbox" id="__nav_4_3" >
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_3_3" type="checkbox" id="__nav_3_3" >
       
       
       
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
       
-        <label class="md-nav__link" for="__nav_4_3">
+      
+        <label class="md-nav__link" for="__nav_3_3">
           2024
           <span class="md-nav__icon md-icon"></span>
         </label>
       
       <nav class="md-nav" aria-label="2024" data-md-level="2">
-        <label class="md-nav__title" for="__nav_4_3">
+        <label class="md-nav__title" for="__nav_3_3">
           <span class="md-nav__icon md-icon"></span>
           2024
         </label>
@@ -666,18 +681,36 @@
     <li class="md-nav__item md-nav__item--nested">
       
       
-        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_4_4" type="checkbox" id="__nav_4_4" >
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_3_4" type="checkbox" id="__nav_3_4" >
       
       
       
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
       
-        <label class="md-nav__link" for="__nav_4_4">
+      
+        <label class="md-nav__link" for="__nav_3_4">
           2023
           <span class="md-nav__icon md-icon"></span>
         </label>
       
       <nav class="md-nav" aria-label="2023" data-md-level="2">
-        <label class="md-nav__title" for="__nav_4_4">
+        <label class="md-nav__title" for="__nav_3_4">
           <span class="md-nav__icon md-icon"></span>
           2023
         </label>
@@ -811,18 +844,36 @@
     <li class="md-nav__item md-nav__item--nested">
       
       
-        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_4_5" type="checkbox" id="__nav_4_5" >
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_3_5" type="checkbox" id="__nav_3_5" >
       
       
       
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
       
-        <label class="md-nav__link" for="__nav_4_5">
+      
+        <label class="md-nav__link" for="__nav_3_5">
           2022
           <span class="md-nav__icon md-icon"></span>
         </label>
       
       <nav class="md-nav" aria-label="2022" data-md-level="2">
-        <label class="md-nav__title" for="__nav_4_5">
+        <label class="md-nav__title" for="__nav_3_5">
           <span class="md-nav__icon md-icon"></span>
           2022
         </label>
@@ -956,18 +1007,34 @@
     <li class="md-nav__item md-nav__item--nested">
       
       
-        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_4_6" type="checkbox" id="__nav_4_6" >
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_3_6" type="checkbox" id="__nav_3_6" >
       
       
       
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
       
-        <label class="md-nav__link" for="__nav_4_6">
+      
+        <label class="md-nav__link" for="__nav_3_6">
           2021
           <span class="md-nav__icon md-icon"></span>
         </label>
       
       <nav class="md-nav" aria-label="2021" data-md-level="2">
-        <label class="md-nav__title" for="__nav_4_6">
+        <label class="md-nav__title" for="__nav_3_6">
           <span class="md-nav__icon md-icon"></span>
           2021
         </label>
@@ -1087,18 +1154,34 @@
     <li class="md-nav__item md-nav__item--nested">
       
       
-        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_4_7" type="checkbox" id="__nav_4_7" >
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_3_7" type="checkbox" id="__nav_3_7" >
       
       
       
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
       
-        <label class="md-nav__link" for="__nav_4_7">
+      
+        <label class="md-nav__link" for="__nav_3_7">
           2020
           <span class="md-nav__icon md-icon"></span>
         </label>
       
       <nav class="md-nav" aria-label="2020" data-md-level="2">
-        <label class="md-nav__title" for="__nav_4_7">
+        <label class="md-nav__title" for="__nav_3_7">
           <span class="md-nav__icon md-icon"></span>
           2020
         </label>
@@ -1218,18 +1301,34 @@
     <li class="md-nav__item md-nav__item--nested">
       
       
-        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_4_8" type="checkbox" id="__nav_4_8" >
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_3_8" type="checkbox" id="__nav_3_8" >
       
       
       
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
       
-        <label class="md-nav__link" for="__nav_4_8">
+      
+        <label class="md-nav__link" for="__nav_3_8">
           2019
           <span class="md-nav__icon md-icon"></span>
         </label>
       
       <nav class="md-nav" aria-label="2019" data-md-level="2">
-        <label class="md-nav__title" for="__nav_4_8">
+        <label class="md-nav__title" for="__nav_3_8">
           <span class="md-nav__icon md-icon"></span>
           2019
         </label>
@@ -1349,18 +1448,34 @@
     <li class="md-nav__item md-nav__item--nested">
       
       
-        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_4_9" type="checkbox" id="__nav_4_9" >
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_3_9" type="checkbox" id="__nav_3_9" >
       
       
       
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
       
-        <label class="md-nav__link" for="__nav_4_9">
+      
+        <label class="md-nav__link" for="__nav_3_9">
           2018
           <span class="md-nav__icon md-icon"></span>
         </label>
       
       <nav class="md-nav" aria-label="2018" data-md-level="2">
-        <label class="md-nav__title" for="__nav_4_9">
+        <label class="md-nav__title" for="__nav_3_9">
           <span class="md-nav__icon md-icon"></span>
           2018
         </label>
@@ -1480,18 +1595,34 @@
     <li class="md-nav__item md-nav__item--nested">
       
       
-        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_4_10" type="checkbox" id="__nav_4_10" >
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_3_10" type="checkbox" id="__nav_3_10" >
       
       
       
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
       
-        <label class="md-nav__link" for="__nav_4_10">
+      
+        <label class="md-nav__link" for="__nav_3_10">
           2017
           <span class="md-nav__icon md-icon"></span>
         </label>
       
       <nav class="md-nav" aria-label="2017" data-md-level="2">
-        <label class="md-nav__title" for="__nav_4_10">
+        <label class="md-nav__title" for="__nav_3_10">
           <span class="md-nav__icon md-icon"></span>
           2017
         </label>
@@ -1613,18 +1744,34 @@
     <li class="md-nav__item md-nav__item--active md-nav__item--nested">
       
       
-        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_4_11" type="checkbox" id="__nav_4_11" checked>
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_3_11" type="checkbox" id="__nav_3_11" checked>
       
       
       
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
       
-        <label class="md-nav__link" for="__nav_4_11">
+      
+        <label class="md-nav__link" for="__nav_3_11">
           2016
           <span class="md-nav__icon md-icon"></span>
         </label>
       
       <nav class="md-nav" aria-label="2016" data-md-level="2">
-        <label class="md-nav__title" for="__nav_4_11">
+        <label class="md-nav__title" for="__nav_3_11">
           <span class="md-nav__icon md-icon"></span>
           2016
         </label>
@@ -1754,18 +1901,36 @@
     <li class="md-nav__item md-nav__item--nested">
       
       
-        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_4_12" type="checkbox" id="__nav_4_12" >
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_3_12" type="checkbox" id="__nav_3_12" >
       
       
       
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
       
-        <label class="md-nav__link" for="__nav_4_12">
+      
+        <label class="md-nav__link" for="__nav_3_12">
           2015
           <span class="md-nav__icon md-icon"></span>
         </label>
       
       <nav class="md-nav" aria-label="2015" data-md-level="2">
-        <label class="md-nav__title" for="__nav_4_12">
+        <label class="md-nav__title" for="__nav_3_12">
           <span class="md-nav__icon md-icon"></span>
           2015
         </label>
@@ -1899,18 +2064,30 @@
     <li class="md-nav__item md-nav__item--nested">
       
       
-        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_4_13" type="checkbox" id="__nav_4_13" >
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_3_13" type="checkbox" id="__nav_3_13" >
       
       
       
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
       
-        <label class="md-nav__link" for="__nav_4_13">
+      
+        <label class="md-nav__link" for="__nav_3_13">
           2014
           <span class="md-nav__icon md-icon"></span>
         </label>
       
       <nav class="md-nav" aria-label="2014" data-md-level="2">
-        <label class="md-nav__title" for="__nav_4_13">
+        <label class="md-nav__title" for="__nav_3_13">
           <span class="md-nav__icon md-icon"></span>
           2014
         </label>
@@ -2002,18 +2179,30 @@
     <li class="md-nav__item md-nav__item--nested">
       
       
-        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_4_14" type="checkbox" id="__nav_4_14" >
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_3_14" type="checkbox" id="__nav_3_14" >
       
       
       
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
       
-        <label class="md-nav__link" for="__nav_4_14">
+      
+        <label class="md-nav__link" for="__nav_3_14">
           2013
           <span class="md-nav__icon md-icon"></span>
         </label>
       
       <nav class="md-nav" aria-label="2013" data-md-level="2">
-        <label class="md-nav__title" for="__nav_4_14">
+        <label class="md-nav__title" for="__nav_3_14">
           <span class="md-nav__icon md-icon"></span>
           2013
         </label>
@@ -2105,18 +2294,26 @@
     <li class="md-nav__item md-nav__item--nested">
       
       
-        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_4_15" type="checkbox" id="__nav_4_15" >
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_3_15" type="checkbox" id="__nav_3_15" >
       
       
       
+        
+          
+        
+          
+        
+          
+        
       
-        <label class="md-nav__link" for="__nav_4_15">
+      
+        <label class="md-nav__link" for="__nav_3_15">
           2012
           <span class="md-nav__icon md-icon"></span>
         </label>
       
       <nav class="md-nav" aria-label="2012" data-md-level="2">
-        <label class="md-nav__title" for="__nav_4_15">
+        <label class="md-nav__title" for="__nav_3_15">
           <span class="md-nav__icon md-icon"></span>
           2012
         </label>
@@ -2180,18 +2377,42 @@
     <li class="md-nav__item md-nav__item--nested">
       
       
-        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_4_16" type="checkbox" id="__nav_4_16" >
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_3_16" type="checkbox" id="__nav_3_16" >
       
       
       
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
       
-        <label class="md-nav__link" for="__nav_4_16">
+      
+        <label class="md-nav__link" for="__nav_3_16">
           2011
           <span class="md-nav__icon md-icon"></span>
         </label>
       
       <nav class="md-nav" aria-label="2011" data-md-level="2">
-        <label class="md-nav__title" for="__nav_4_16">
+        <label class="md-nav__title" for="__nav_3_16">
           <span class="md-nav__icon md-icon"></span>
           2011
         </label>
@@ -2367,18 +2588,34 @@
     <li class="md-nav__item md-nav__item--nested">
       
       
-        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_4_17" type="checkbox" id="__nav_4_17" >
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_3_17" type="checkbox" id="__nav_3_17" >
       
       
       
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
       
-        <label class="md-nav__link" for="__nav_4_17">
+      
+        <label class="md-nav__link" for="__nav_3_17">
           2010
           <span class="md-nav__icon md-icon"></span>
         </label>
       
       <nav class="md-nav" aria-label="2010" data-md-level="2">
-        <label class="md-nav__title" for="__nav_4_17">
+        <label class="md-nav__title" for="__nav_3_17">
           <span class="md-nav__icon md-icon"></span>
           2010
         </label>
@@ -2498,18 +2735,32 @@
     <li class="md-nav__item md-nav__item--nested">
       
       
-        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_4_18" type="checkbox" id="__nav_4_18" >
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_3_18" type="checkbox" id="__nav_3_18" >
       
       
       
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
       
-        <label class="md-nav__link" for="__nav_4_18">
+      
+        <label class="md-nav__link" for="__nav_3_18">
           2009
           <span class="md-nav__icon md-icon"></span>
         </label>
       
       <nav class="md-nav" aria-label="2009" data-md-level="2">
-        <label class="md-nav__title" for="__nav_4_18">
+        <label class="md-nav__title" for="__nav_3_18">
           <span class="md-nav__icon md-icon"></span>
           2009
         </label>
@@ -2615,18 +2866,32 @@
     <li class="md-nav__item md-nav__item--nested">
       
       
-        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_4_19" type="checkbox" id="__nav_4_19" >
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_3_19" type="checkbox" id="__nav_3_19" >
       
       
       
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
       
-        <label class="md-nav__link" for="__nav_4_19">
+      
+        <label class="md-nav__link" for="__nav_3_19">
           2008
           <span class="md-nav__icon md-icon"></span>
         </label>
       
       <nav class="md-nav" aria-label="2008" data-md-level="2">
-        <label class="md-nav__title" for="__nav_4_19">
+        <label class="md-nav__title" for="__nav_3_19">
           <span class="md-nav__icon md-icon"></span>
           2008
         </label>
@@ -2732,18 +2997,42 @@
     <li class="md-nav__item md-nav__item--nested">
       
       
-        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_4_20" type="checkbox" id="__nav_4_20" >
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_3_20" type="checkbox" id="__nav_3_20" >
       
       
       
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
       
-        <label class="md-nav__link" for="__nav_4_20">
+      
+        <label class="md-nav__link" for="__nav_3_20">
           2007
           <span class="md-nav__icon md-icon"></span>
         </label>
       
       <nav class="md-nav" aria-label="2007" data-md-level="2">
-        <label class="md-nav__title" for="__nav_4_20">
+        <label class="md-nav__title" for="__nav_3_20">
           <span class="md-nav__icon md-icon"></span>
           2007
         </label>
@@ -2919,18 +3208,34 @@
     <li class="md-nav__item md-nav__item--nested">
       
       
-        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_4_21" type="checkbox" id="__nav_4_21" >
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_3_21" type="checkbox" id="__nav_3_21" >
       
       
       
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
       
-        <label class="md-nav__link" for="__nav_4_21">
+      
+        <label class="md-nav__link" for="__nav_3_21">
           2006
           <span class="md-nav__icon md-icon"></span>
         </label>
       
       <nav class="md-nav" aria-label="2006" data-md-level="2">
-        <label class="md-nav__title" for="__nav_4_21">
+        <label class="md-nav__title" for="__nav_3_21">
           <span class="md-nav__icon md-icon"></span>
           2006
         </label>
@@ -3050,18 +3355,36 @@
     <li class="md-nav__item md-nav__item--nested">
       
       
-        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_4_22" type="checkbox" id="__nav_4_22" >
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_3_22" type="checkbox" id="__nav_3_22" >
       
       
       
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
       
-        <label class="md-nav__link" for="__nav_4_22">
+      
+        <label class="md-nav__link" for="__nav_3_22">
           2005
           <span class="md-nav__icon md-icon"></span>
         </label>
       
       <nav class="md-nav" aria-label="2005" data-md-level="2">
-        <label class="md-nav__title" for="__nav_4_22">
+        <label class="md-nav__title" for="__nav_3_22">
           <span class="md-nav__icon md-icon"></span>
           2005
         </label>
@@ -3195,18 +3518,34 @@
     <li class="md-nav__item md-nav__item--nested">
       
       
-        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_4_23" type="checkbox" id="__nav_4_23" >
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_3_23" type="checkbox" id="__nav_3_23" >
       
       
       
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
       
-        <label class="md-nav__link" for="__nav_4_23">
+      
+        <label class="md-nav__link" for="__nav_3_23">
           2004
           <span class="md-nav__icon md-icon"></span>
         </label>
       
       <nav class="md-nav" aria-label="2004" data-md-level="2">
-        <label class="md-nav__title" for="__nav_4_23">
+        <label class="md-nav__title" for="__nav_3_23">
           <span class="md-nav__icon md-icon"></span>
           2004
         </label>
@@ -3326,18 +3665,38 @@
     <li class="md-nav__item md-nav__item--nested">
       
       
-        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_4_24" type="checkbox" id="__nav_4_24" >
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_3_24" type="checkbox" id="__nav_3_24" >
       
       
       
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
       
-        <label class="md-nav__link" for="__nav_4_24">
+      
+        <label class="md-nav__link" for="__nav_3_24">
           2003
           <span class="md-nav__icon md-icon"></span>
         </label>
       
       <nav class="md-nav" aria-label="2003" data-md-level="2">
-        <label class="md-nav__title" for="__nav_4_24">
+        <label class="md-nav__title" for="__nav_3_24">
           <span class="md-nav__icon md-icon"></span>
           2003
         </label>
@@ -3485,18 +3844,28 @@
     <li class="md-nav__item md-nav__item--nested">
       
       
-        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_4_25" type="checkbox" id="__nav_4_25" >
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_3_25" type="checkbox" id="__nav_3_25" >
       
       
       
+        
+          
+        
+          
+        
+          
+        
+          
+        
       
-        <label class="md-nav__link" for="__nav_4_25">
+      
+        <label class="md-nav__link" for="__nav_3_25">
           2002
           <span class="md-nav__icon md-icon"></span>
         </label>
       
       <nav class="md-nav" aria-label="2002" data-md-level="2">
-        <label class="md-nav__title" for="__nav_4_25">
+        <label class="md-nav__title" for="__nav_3_25">
           <span class="md-nav__icon md-icon"></span>
           2002
         </label>
@@ -3582,35 +3951,31 @@
     <li class="md-nav__item md-nav__item--nested">
       
       
-        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_5" type="checkbox" id="__nav_5" >
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_4" type="checkbox" id="__nav_4" >
       
       
       
+        
+          
+            
+          
+        
       
-        <label class="md-nav__link" for="__nav_5">
-          Sponsors
-          <span class="md-nav__icon md-icon"></span>
-        </label>
+      
+        
+        
+        <div class="md-nav__link md-nav__link--index ">
+          <a href="../../../sponsors/">Sponsors</a>
+          
+        </div>
       
       <nav class="md-nav" aria-label="Sponsors" data-md-level="1">
-        <label class="md-nav__title" for="__nav_5">
+        <label class="md-nav__title" for="__nav_4">
           <span class="md-nav__icon md-icon"></span>
           Sponsors
         </label>
         <ul class="md-nav__list" data-md-scrollfix>
           
-            
-              
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../../sponsors/" class="md-nav__link">
-        Sponsorship
-      </a>
-    </li>
-  
-
             
           
         </ul>
@@ -3619,18 +3984,50 @@
   
 
     
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../about/" class="md-nav__link">
+        About Us
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../contact/" class="md-nav__link">
+        Contact
+      </a>
+    </li>
+  
+
+    
   </ul>
 </nav>
-                  </div>
-                </div>
-              </div>
-            
-            
-          
+        </div>
+      </div>
+    </div>
+  
+
           
             <div class="md-content" data-md-component="content">
               <article class="md-content__inner md-typeset">
                 
+  
+    <div class="vb-page vb-page--archive">
+      
                   
 
 
@@ -3668,121 +4065,109 @@
 
 
                 
+    </div>
+  
+
               </article>
             </div>
           
           
         </div>
         
-          <a href="#" class="md-top md-icon" data-md-component="top" hidden>
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8v12Z"/></svg>
-            Back to top
-          </a>
-        
       </main>
       
-        <footer class="md-footer">
   
+  
+  
+  <footer class="md-footer vb-footer">
     
-    <nav class="md-footer__inner md-grid" aria-label="Footer" >
-      
+      <nav class="md-footer__inner md-grid" aria-label="Footer">
         
-        <a href="../2016-03-10/" class="md-footer__link md-footer__link--prev" aria-label="Previous: Mar - Sara Mostafavi" rel="prev">
-          <div class="md-footer__button md-icon">
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
-          </div>
-          <div class="md-footer__title">
-            <div class="md-ellipsis">
-              <span class="md-footer__direction">
-                Previous
-              </span>
-              Mar - Sara Mostafavi
+          <a href="../2016-03-10/" class="md-footer__link md-footer__link--prev" aria-label="Previous: Mar - Sara Mostafavi" rel="prev">
+            <div class="md-footer__button md-icon">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
             </div>
-          </div>
-        </a>
-      
-      
+            <div class="md-footer__title">
+              <div class="md-ellipsis">
+                <span class="md-footer__direction">Previous</span>
+                Mar - Sara Mostafavi
+              </div>
+            </div>
+          </a>
         
-        <a href="../../2015/2015-12-10/" class="md-footer__link md-footer__link--next" aria-label="Next: Dec - “How to become an entrepreneur”" rel="next">
-          <div class="md-footer__title">
-            <div class="md-ellipsis">
-              <span class="md-footer__direction">
-                Next
-              </span>
-              Dec - “How to become an entrepreneur”
+        
+          <a href="../../2015/2015-12-10/" class="md-footer__link md-footer__link--next" aria-label="Next: Dec - “How to become an entrepreneur”" rel="next">
+            <div class="md-footer__title">
+              <div class="md-ellipsis">
+                <span class="md-footer__direction">Next</span>
+                Dec - “How to become an entrepreneur”
+              </div>
             </div>
-          </div>
-          <div class="md-footer__button md-icon">
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4Z"/></svg>
-          </div>
-        </a>
-      
-    </nav>
-  
-  <div class="md-footer-meta md-typeset">
-    <div class="md-footer-meta__inner md-grid">
-      <div class="md-copyright">
-  
-  
-    Made with
-    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
-      Material for MkDocs
-    </a>
-  
-</div>
+            <div class="md-footer__button md-icon">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4Z"/></svg>
+            </div>
+          </a>
+        
+      </nav>
+    
+    <div class="vb-footer__inner md-grid">
+      <a class="vb-brand" href="../../..">
+        <img class="vb-brand__mark vb-brand__mark--large" src="../../../images/logo.svg" alt="">
+        <span class="vb-brand__text">
+          <span class="vb-brand__name">VanBUG</span>
+          <span class="vb-brand__full">Vancouver Bioinformatics User Group</span>
+        </span>
+      </a>
       
         <div class="md-social">
   
     
     
-      
-      
-    
-    <a href="https://twitter.com/VanBUG_" target="_blank" rel="noopener" title="twitter.com" class="md-social__link">
-      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.2.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"/></svg>
+    <a href="https://twitter.com/VanBUG_" target="_blank" rel="noopener" title="X" class="md-social__link">
+      <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>X</title><path d="M14.234 10.162 22.977 0h-2.072l-7.591 8.824L7.251 0H.258l9.168 13.343L.258 24H2.33l8.016-9.318L16.749 24h6.993zm-2.837 3.299-.929-1.329L3.076 1.56h3.182l5.965 8.532.929 1.329 7.754 11.09h-3.182z"/></svg>
     </a>
   
     
     
-      
-      
-    
-    <a href="https://github.com/van-bug" target="_blank" rel="noopener" title="github.com" class="md-social__link">
-      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><!--! Font Awesome Free 6.2.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"/></svg>
+    <a href="https://www.instagram.com/vanbug_" target="_blank" rel="noopener" title="Instagram" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 0C8.74 0 8.333.015 7.053.072 5.775.132 4.905.333 4.14.63c-.789.306-1.459.717-2.126 1.384S.935 3.35.63 4.14C.333 4.905.131 5.775.072 7.053.012 8.333 0 8.74 0 12s.015 3.667.072 4.947c.06 1.277.261 2.148.558 2.913a5.885 5.885 0 0 0 1.384 2.126A5.868 5.868 0 0 0 4.14 23.37c.766.296 1.636.499 2.913.558C8.333 23.988 8.74 24 12 24s3.667-.015 4.947-.072c1.277-.06 2.148-.262 2.913-.558a5.898 5.898 0 0 0 2.126-1.384 5.86 5.86 0 0 0 1.384-2.126c.296-.765.499-1.636.558-2.913.06-1.28.072-1.687.072-4.947s-.015-3.667-.072-4.947c-.06-1.277-.262-2.149-.558-2.913a5.89 5.89 0 0 0-1.384-2.126A5.847 5.847 0 0 0 19.86.63c-.765-.297-1.636-.499-2.913-.558C15.667.012 15.26 0 12 0zm0 2.16c3.203 0 3.585.016 4.85.071 1.17.055 1.805.249 2.227.415.562.217.96.477 1.382.896.419.42.679.819.896 1.381.164.422.36 1.057.413 2.227.057 1.266.07 1.646.07 4.85s-.015 3.585-.074 4.85c-.061 1.17-.256 1.805-.421 2.227a3.81 3.81 0 0 1-.899 1.382 3.744 3.744 0 0 1-1.38.896c-.42.164-1.065.36-2.235.413-1.274.057-1.649.07-4.859.07-3.211 0-3.586-.015-4.859-.074-1.171-.061-1.816-.256-2.236-.421a3.716 3.716 0 0 1-1.379-.899 3.644 3.644 0 0 1-.9-1.38c-.165-.42-.359-1.065-.42-2.235-.045-1.26-.061-1.649-.061-4.844 0-3.196.016-3.586.061-4.861.061-1.17.255-1.814.42-2.234.21-.57.479-.96.9-1.381.419-.419.81-.689 1.379-.898.42-.166 1.051-.361 2.221-.421 1.275-.045 1.65-.06 4.859-.06l.045.03zm0 3.678a6.162 6.162 0 1 0 0 12.324 6.162 6.162 0 1 0 0-12.324zM12 16c-2.21 0-4-1.79-4-4s1.79-4 4-4 4 1.79 4 4-1.79 4-4 4zm7.846-10.405a1.441 1.441 0 0 1-2.88 0 1.44 1.44 0 0 1 2.88 0z"/></svg>
     </a>
   
     
     
-      
-      
+    <a href="https://www.youtube.com/channel/UCO_BUmZqGLx_w9-IpAj4idQ" target="_blank" rel="noopener" title="YouTube" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/></svg>
+    </a>
+  
     
-    <a href="https://www.youtube.com/channel/UCO_BUmZqGLx_w9-IpAj4idQ" target="_blank" rel="noopener" title="www.youtube.com" class="md-social__link">
-      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--! Font Awesome Free 6.2.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z"/></svg>
+    
+    <a href="https://github.com/van-bug" target="_blank" rel="noopener" title="GitHub" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12"/></svg>
     </a>
   
 </div>
       
     </div>
-  </div>
-</footer>
-      
+  </footer>
+
     </div>
     <div class="md-dialog" data-md-component="dialog">
       <div class="md-dialog__inner md-typeset"></div>
     </div>
     
-    <script id="__config" type="application/json">{"base": "../../..", "features": ["navigation.tabs", "navigation.top", "navigation.tabs.sticky", "navigation.instant", "toc.integrate"], "search": "../../../assets/javascripts/workers/search.16e2a7d4.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.config.lang": "en", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Search", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version.title": "Select version"}}</script>
+    <script id="__config" type="application/json">{"base": "../../..", "features": ["navigation.tabs", "navigation.tabs.sticky", "navigation.indexes"], "search": "../../../assets/javascripts/workers/search.16e2a7d4.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.config.lang": "en", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Search", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version.title": "Select version"}}</script>
     
     
+  <script src="../../../vanbug.js"></script>
+  
       <script src="../../../assets/javascripts/bundle.5a2dcb6a.min.js"></script>
-      
-        <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
       
         <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
       
         <script src="https://platform.twitter.com/widgets.js"></script>
       
     
+
     
   </body>
 </html>
