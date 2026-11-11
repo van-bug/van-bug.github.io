@@ -43,6 +43,8 @@ As a service to the community, local VanBUG and other bioinformatics events are 
 
     Featured Speaker: Dr. Maria Tokuyama
 
+    Trainee Speaker: Jeffrey Tang
+
 - ### Dec 10th, 2026, Thursday
 
     :material-clock: TBD
