@@ -46,3 +46,17 @@ As a service to the community, local VanBUG and other bioinformatics events are 
     Trainee Speaker: Jeffrey Tang
 
 ///
+
+## Spring 2027
+
+/// html | div[class="timeline"]
+
+- ### [Feb 2nd, 2027, Tuesday](./archive/2027/2027-02-02.md)
+
+    :material-clock: 6:00pm - 8:00pm
+
+    :material-map-marker: **Location:** UBC
+
+    Panel: Computational Biology Beyond the Lab
+
+///
