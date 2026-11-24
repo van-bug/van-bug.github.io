@@ -437,6 +437,7 @@ html:not([data-md-color-scheme]) .md-header__option label[for="__palette_2"] { d
   .md-sidebar.md-sidebar--primary {
     left: 0;
     opacity: 0;
+    pointer-events: none;
     top: 0;
     transform: none;
     transition: opacity .2s, visibility 0s .2s;
@@ -447,6 +448,7 @@ html:not([data-md-color-scheme]) .md-header__option label[for="__palette_2"] { d
   [data-md-toggle="drawer"]:checked ~ .md-container .md-sidebar--primary {
     box-shadow: none;
     opacity: 1;
+    pointer-events: auto;
     transform: none;
     transition: opacity .2s;
     visibility: visible;
